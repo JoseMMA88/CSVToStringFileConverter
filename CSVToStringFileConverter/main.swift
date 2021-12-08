@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
+StringFileHelper.generateStringsFile(CSVFileHelper.loadCSV("Test-Localizable"))
 

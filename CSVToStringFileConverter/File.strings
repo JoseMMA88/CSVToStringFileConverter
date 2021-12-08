@@ -1,0 +1,307 @@
+/* 
+  File.strings
+  CSVtoStringsFileConverter
+
+  Created by Dual Link Jose Malagon on 17/9/21.
+  
+*/
+
+/* Categories */
+"Categories" = "Categories";
+
+/* Category */
+"Category" = "Category";
+
+/* Category actions %@ */
+"Category actions %@" = "Category actions %@";
+
+/* Category name is required */
+"Category name is required" = "Category name is required";
+
+/* Caution! */
+"Caution!" = "Caution!";
+
+/* CC Cancel */
+"CC Cancel" = "CC Cancel";
+
+/* CCV */
+"CCV" = "CCV";
+
+/* Celery */
+"Celery" = "Celery";
+
+/* Centilitre */
+"Centilitre" = "Centilitre";
+
+/* Change status to pending */
+"Change status to pending" = "Change status to pending";
+
+/* Characters by line */
+"Characters by line" = "Characters by line";
+
+/* Charger disconnected */
+"Charger disconnected" = "Charger disconnected";
+
+/* Check / Uncheck all the category */
+"Check / Uncheck all the category" = "Check / Uncheck all the category";
+
+/* Check the WiFi connection between this device and the server */
+"Check the WiFi connection between this device and the server" = "Check the WiFi connection between this device and the server";
+
+/* Check your internet access */
+"Check your internet access" = "Check your internet access";
+
+/* Check your Wi-Fi connection */
+"Check your Wi-Fi connection" = "Check your Wi-Fi connection";
+
+/* Chinese */
+"Chinese" = "Chinese";
+
+/* Choose file */
+"Choose file" = "Choose file";
+
+/* Choose file name */
+"Choose file name" = "Choose file name";
+
+/* Choose the payment method */
+"Choose the payment method" = "Choose the payment method";
+
+/* Clean images */
+"Clean images" = "Clean images";
+
+/* Cleaning old history. Please wait, this maybe take several minutes. */
+"Cleaning old history. Please wait, this maybe take several minutes." = "Cleaning old history. Please wait, this maybe take several minutes.";
+
+/* Clear */
+"Clear" = "Clear";
+
+/* Clear all */
+"Clear all" = "Clear all";
+
+/* Client accounts */
+"Client accounts" = "Client accounts";
+
+/* Client city */
+"Client city" = "Client city";
+
+/* Client comments */
+"Client comments" = "Client comments";
+
+/* Client document */
+"Client document" = "Client document";
+
+/* Client linked to the invoice */
+"Client linked to the invoice" = "Client linked to the invoice";
+
+/* Client linked to the ticket */
+"Client linked to the ticket" = "Client linked to the ticket";
+
+/* Client mail */
+"Client mail" = "Client mail";
+
+/* Client mobile */
+"Client mobile" = "Client mobile";
+
+/* Client name */
+"Client name" = "Client name";
+
+/* Client phone */
+"Client phone" = "Client phone";
+
+/* Client state */
+"Client state" = "Client state";
+
+/* Client zip code */
+"Client zip code" = "Client zip code";
+
+/* CLOSE */
+"CLOSE" = "CLOSE";
+
+/* Close cashdesk */
+"Close cashdesk" = "Close cashdesk";
+
+/* Close online orders automatically when pay */
+"Close online orders automatically when pay" = "Close online orders automatically when pay";
+
+/* Close payment screen automatically when ticket is paid */
+"Close payment screen automatically when ticket is paid" = "Close payment screen automatically when ticket is paid";
+
+/* Close session */
+"Close session" = "Close session";
+
+/* Close work sessions and go to balance */
+"Close work sessions and go to balance" = "Close work sessions and go to balance";
+
+/* Closed */
+"Closed" = "Closed";
+
+/* Closing */
+"Closing" = "Closing";
+
+/* code */
+"code" = "code";
+
+/* Code Page */
+"Code Page" = "Code Page";
+
+/* Code required */
+"Code required" = "Code required";
+
+/* Column */
+"Column" = "Column";
+
+/* Common warehouses (Apply to all products) */
+"Common warehouses (Apply to all products)" = "Common warehouses (Apply to all products)";
+
+/* Company information */
+"Company information" = "Company information";
+
+/* Company name */
+"Company name" = "Company name";
+
+/* Complete Administration */
+"Complete Administration" = "Complete Administration";
+
+/* Complete the input format names or delete not used input formats */
+"Complete the input format names or delete not used input formats" = "Complete the input format names or delete not used input formats";
+
+/* Complete ticket */
+"Complete ticket" = "Complete ticket";
+
+/* Completed */
+"Completed" = "Completed";
+
+/* Components */
+"Components" = "Components";
+
+/* Concept, price and rate are required fields */
+"Concept, price and rate are required fields" = "Concept, price and rate are required fields";
+
+/* Confirm */
+"Confirm" = "Confirm";
+
+/* Confirmed */
+"Confirmed" = "Confirmed";
+
+/* Conflicting header */
+"Conflicting header" = "Conflicting header";
+
+/* Connecting... */
+"Connecting..." = "Connecting...";
+
+/* Connection error */
+"Connection error" = "Connection error";
+
+/* Connection error. */
+"Connection error." = "Connection error.";
+
+/* Connection settings */
+"Connection settings" = "Connection settings";
+
+/* Consume components */
+"Consume components" = "Consume components";
+
+/* Consumption */
+"Consumption" = "Consumption";
+
+/* Consumption profile */
+"Consumption profile" = "Consumption profile";
+
+/* Consumptions */
+"Consumptions" = "Consumptions";
+
+/* License is expired */
+"License is expired" = "License is expired";
+
+/* Contact Dual Link to renew your license */
+"Contact Dual Link to renew your license" = "Contact Dual Link to renew your license";
+
+/* Container */
+"Container" = "Container";
+
+/* Cnt */
+"Cnt" = "Cnt";
+
+/* Cost price */
+"Cost price" = "Cost price";
+
+/* COUNT & IMBALANCE */
+"COUNT & IMBALANCE" = "COUNT & IMBALANCE";
+
+/* Course */
+"Course" = "Course";
+
+/* Courses */
+"Courses" = "Courses";
+
+/* Create and print card */
+"Create and print card" = "Create and print card";
+
+/* Create new tag */
+"Create new tag" = "Create new tag";
+
+/* Create rectification document */
+"Create rectification document" = "Create rectification document";
+
+/* Create tag */
+"Create tag" = "Create tag";
+
+/* Creation date */
+"Creation date" = "Creation date";
+
+/* Crustaceans */
+"Crustaceans" = "Crustaceans";
+
+/* csv file name */
+"csv file name" = "csv file name";
+
+/* Accumulative kitchen summaries */
+"Accumulative kitchen summaries" = "Accumulative kitchen summaries";
+
+/* Currency already available */
+"Currency already available" = "Currency already available";
+
+/* Current currency */
+"Current currency" = "Current currency";
+
+/* Current debts */
+"Current debts" = "Current debts";
+
+/* New debts */
+"New debts" = "New debts";
+
+/* Current economic account */
+"Current economic account" = "Current economic account";
+
+/* CURRENT NETWORK */
+"CURRENT NETWORK" = "CURRENT NETWORK";
+
+/* Current ticket pending amount */
+"Current ticket pending amount" = "Current ticket pending amount";
+
+/* Current VIP Points */
+"Current VIP Points" = "Current VIP Points";
+
+/* Custom */
+"Custom" = "Custom";
+
+/* custom barcode */
+"custom barcode" = "custom barcode";
+
+/* Custom concepts */
+"Custom concepts" = "Custom concepts";
+
+/* Custom input */
+"Custom input" = "Custom input";
+
+/* Custom input note */
+"Custom input note" = "Custom input note";
+
+/* Custom Input Note */
+"Custom Input Note" = "Custom Input Note";
+
+/* Custom input notes */
+"Custom input notes" = "Custom input notes";
+
+/* Messages from an order to product sources */
+"Messages from an order to product sources" = "Messages from an order to product sources";

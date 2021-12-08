@@ -1,0 +1,2334 @@
+Offers;Offers
+Offer;Offer
+%i hours, %i minutes;%1$i hours, %2$i minutes
+%i minutes;%i minutes
+%li covers;%li covers
+--> ORDER IN -->;--> ORDER IN -->
+=== CLAIMED ===;=== CLAIMED ===
+--- DELETION ---;--- DELETION ---
+*** SUMMARY ***;*** SUMMARY ***
++++ ADDED +++;+++ ADDED +++
+··· INFO ···;··· INFO ···
+<-- READY -->;<-- READY -->
+ORDERED;ORDERED
+ORDERED BEFORE;ORDERED BEFORE
+1 cover;1 cover
+Active;Active
+An error occurred while saving data. Please try again.;An error occurred while saving data. Please try again.
+BAR;ORDERS
+Back;Back
+Bookings;Bookings
+Booking;Booking
+Can't add client;Can't add client
+Can't add some products;Can't add some products
+Cancel;Cancel
+Cashdesk;Cashdesk
+Cashdesk checkpoint %@;CashDesk checkpoint %@
+Cashdesk closing;CashDesk closing
+Cashdesk float;Cashdesk float
+Cashdesk is closed.;Cashdesk is closed
+Cashdesk session %@;Cashdesk session %@
+Check server connection and try again.;Check server connection and try again.
+Close;Close
+Credit card;Credit card
+Custom message;Custom message
+Debt;Debt
+Debts;Debts
+Delete;Delete
+Delete order;Delete order
+Return;Return
+Returns;Returns
+Detail;Detail
+Covers;Covers
+Extraordinary inputs;Extraordinary inputs
+Extraordinary outputs;Extraordinary outputs
+Full ticket;Full ticket
+General data;General data
+Gourmet check;Gourmet check
+Gram;Gram
+I'm sorry;I'm sorry
+Inactive;Inactive
+Sales;Sales
+Input;Input
+Extraordinary Input;Extraordinary Input
+Debt Nullification;Debt Nullification
+Sale;Sale
+Extraordinary output;Extraordinary output
+Nullification;Nullification
+Complimentaries;Complimentaries
+Invoice;Invoice
+Kg;Kg
+Kilogram;Kilogram
+Kitchen;Kitchen
+Loading;Loading
+Mass;Mass
+Menus;Menus
+Merged with ticket %@;Merged with ticket %@
+Migrating cashdesk history...;Migrating cashdesk history...
+Migrating data...;Migrating data...
+Migrating database to the new version.;Migrating database to the new version.
+Migrating products...;Migrating products...
+Migrating tickets history...;Migrating tickets history...
+Migration Error;Migration Error
+Model Creation Error;Model Creation Error
+Model name: %@;Model name: %@
+My company;My company
+No order selected;No order selected
+No worker selected;No worker selected
+None;None
+Not possible;Not possible
+Notes;Notes
+OK;OK
+Open;Open
+Order deleted;Order deleted
+Order with manual tickets;Order with manual tickets
+Other operations;Other operations
+Output;Output
+POS;POS
+POS Error;POS Error
+PSC Creation Error;PSC Creation Error
+Partial ticket;Partial ticket
+Please contact your administrator or a worker with enough permissions;Please contact your administrator or a worker with enough permissions
+Predefined messages;Predefined messages
+Product without name;Product without name
+Remove from menu;Remove from menu
+Imbalance;Imbalance
+Select an order;Select an order
+Select course;Select course
+Select course;Select country
+Standard Tax;Standard Tax
+Table change;Table change
+Table info;Table info
+Table merge;Table merge
+Taxes;Taxes
+Approximate Taxes;Approximate Taxes
+Thank you for your visit!;Thank you for your visit!
+The client name is mandatory;The client name is mandatory
+The discount is invalid;The discount is invalid
+The order was deleted on other device;The order was deleted on other device
+Ticket;Ticket
+Total;Total
+Transformed;Transformed
+Unit;Unit
+Units;Units
+Unknow;Unknow
+Volume;Volume
+Waiter;Waiter
+WelcomeKey;Welcome!
+Without pay method;Without pay method
+You don't have enough permissions;You don't have enough permissions
+You need to select a worker to manage orders;You need to select a worker to manage orders
+Zones;Zones
+cl;cl
+g;g
+Name;Name
+Number of codes;Number of codes
+Number of uses per code;Number of uses per code
+All products required to activate the action;All products required to activate the action
+Auto assign new barcode to created anonymous cards;Auto assign new barcode to created anonymous cards
+Base;Base
+Tax;Tax
+1 %@ equals %@ %@;1 %@ equals %@ %@
+1 hour, %i minutes;1 hour, %i minutes
+Add debt;Add debt
+Add VIP points;Add VIP points
+Auto course;Auto course
+Automatic;Automatic
+Can't add;Can't add
+Can't print ticket;Can't print ticket
+Cash desk is closed;Cash desk is closed
+Checkpoint;Checkpoint
+Client address;Client address
+Contact with the administrator or a worker that has the necessary permissions;Contact with the administrator or a worker that has the necessary permissions
+Custom ticket;Custom ticket
+Date : ;Date : 
+Debt of;Debt of
+Delete ticket;Delete ticket
+Delivery order;Delivery order
+Edit;Edit
+Error;Error
+Exchange VIP points;Exchange VIP points
+How many VIP points do you want to exchange?;How many VIP points do you want to exchange?
+How many VIP points you want to add to this client?;How many VIP points you want to add to this client?
+Incomplete fields;Incomplete fields
+Insufficient VIP points;Insufficient VIP points
+Complimentary concept;Complimentary concept
+Complimentary concept and responsible;Complimentary concept and responsible
+Is necessary complete all fields to transform in custom tickets;Is necessary complete all fields to transform in custom tickets
+Mark as served;Mark as served
+Move;Move
+New custom ticket;New custom ticket
+New order;New order
+New rate;New rate
+New ticket;New ticket
+No Worker;No Worker
+No date;No date
+No phone;No phone
+No worker;No worker
+No worker name;No worker name
+Open cashdesk;Open cashdesk
+Open the cash desk to start a new session;Open the cash desk to start a new session
+Operations;Operations
+Order information;Order information
+Partial payment;Partial payment
+Pending;Pending
+Pin code;Pin code
+Please complete all fields to continue;Please complete all fields to continue
+Please indicate the reason why you delete the order;Please indicate the reason why you delete the order
+Please indicate the reason why you delete the ticket;Please indicate the reason why you delete the ticket
+Quantity;Quantity
+Ready;Ready
+Select a date;Select a date
+Select a time;Select a time
+Select a worker;Select a worker
+Select server;Select server
+Send to the kitchen;Send to the kitchen
+Some lines need to be send to the kitchen or mark as served;Some lines need to be send to the kitchen or mark as served
+A debt amount of %@ will be added to %@;A debt amount of %@ will be added to %@
+Takeaway order;Takeaway order
+There are no menus. You can manage from the admin section (Menus);There are no menus. You can manage from the admin section (Menus)
+There are no product categories. You can manage categories from the admin section (Products);There are no product categories. You can manage categories from the admin section (Products)
+There are no results for your search.;There are no results for your search.
+This category has no products. Add products to this category from the admin section (Products);This category has no products. Add products to this category from the admin section (Products)
+This menu has no products. Add products to this menu from the admin section (Menus);This menu has no products. Add products to this menu from the admin section (Menus)
+Tickets;Tickets
+To charge;To charge
+Worker;Worker
+Add to worker order;Add to worker order
+Are you sure?;Are you sure?
+Orders work area;Orders work area
+Cashdesk is closed;Cashdesk is closed
+Cheff;Cheff
+Clock out;Clock out
+Concept;Concept
+Do you really want to clock out? Your clock in was less than 5 minutes ago.;Do you really want to clock out? Your clock in was less than 5 minutes ago.
+Error deleting;Error deleting
+Merge orders in different tickets;Merge orders in different tickets
+Merge orders in one ticket;Merge orders in one ticket
+Moved to worker order;Moved to worker order
+No session;No session
+Order merge;Order merge
+Order was deleted from other device;Order was deleted from other device
+Order was deleted;Order was deleted
+POS Terminal;POS Terminal
+Quick payment;Quick payment
+"Searching for servers %@";"Searching for servers %@"
+Send all not sended lines to the kitchen?;Send all not sended lines to the kitchen?
+Server connection error.;Server connection error.
+There are no favourite products. Add favourite products from the admin section (Products);There are no favourite products. Add favourite products from the admin section (Products)
+There is a problem with the connection with the server;There is a problem with the connection with the server
+Worker operations;Worker operations
+Cash machine busy;Cash machine busy
+Error paying out;Error paying out
+Multiple Pay Methods.;Multiple Pay Methods.
+Not enough stock;Not enough stock
+has not enough stock for today;has not enough stock for today
+Please wait while the cash machine finish the operation;Please wait while the cash machine finish the operation
+Stock Out;Stock Out
+Subcashdesk;Subcashdesk
+Report of sales by worker;Report of sales by worker
+Report of payments by hour;Report of payments by hour
+Report of sales by hour;Report of sales by hour
+No orders in progress;No orders in progress
+This report can't show information because there aren't any open orders.;This report can't show information because there aren't any open orders.
+People;People
+Payments by worker in session;Payments by worker in session
+Worker sales in session;Worker sales in session
+Other;Other
+Can't delete;Can't delete
+Ticket is payed;Ticket is payed
+Add static server;Add static server
+Can't pay;Can't pay
+Partial payment is not allowed in Worker Orders;Partial payment is not allowed in Worker Orders
+Ticket deletion;Ticket deletion
+Workers;Workers
+Write down the IP address a colon and port number to add a static server.;Write down the IP address a colon and port number to add a static server.
+Address;Address
+Client;Client
+Date;Date
+Payments;Payments
+Select the pay method;Select the pay method
+or touch outside to cancel;or touch outside to cancel
+Main cashdesk;Main cashdesk
+Manager cashdesk;Manager cashdesk
+and subcashdesks;and subcashdesks
+Client account;Client account
+Can't transform;Can't transform
+The following cashdesk payments will be deleted;The following cashdesk payments will be deleted
+Undo partial payments;Undo partial payments
+Vip points;Vip points
+You can't transform a partially payed ticket;You can't transform a partially payed ticket
+Can't remove an invoice. Cash the ticket and then nullify it from the cash desk area.;Can't remove an invoice. Cash the ticket and then nullify it from the cash desk area.
+Outstanding ticket amount;Outstanding ticket amount
+Order is nil;Order is nil
+%%;%%
+%@ (Linked with a product category);%@ (Linked with a product category)
+%@ (Linked with products);%@ (Linked with products)
+%@ VAT Included;%@ VAT Included
+%@ VAT Not included;%@ VAT Not included
+%li days left to expire your license;%li days left to expire your license
+'%@' is not a valid quantity;'%@' is not a valid quantity
+*****;*****
+-;-
+---;---
+0 %;0 %
+0;0
+1 %@ -> %@ %@;1 %1$@ -> %2$@ %3$@
+Access denied;Access denied
+Account;Account
+Account payments;Account payments
+Accounts;Accounts
+Accounts (Only applied for this device);Accounts (Only applied for this device)
+Accumulated not paid debt;Accumulated not paid debt
+Actions;Actions
+Actual session reports;Actual session reports
+Add;Add
+Add & Consume components;Add & Consume components
+Add camera;Add camera
+Add cash desk lines;Add cash desk lines
+Add category;Add category
+Add custom ticket;Add custom ticket
+Add extraordinary input;Add extraordinary input
+Add extraordinary output;Add extraordinary output
+Add format;Add format
+Add funds;Add funds
+Add input delivery note;Add input delivery note
+Add menu;Add menu
+Add modifier category;Add modifier category
+Add more funds or pay a lower quantity;Add more funds or pay a lower quantity
+Add more supported warehouses;Add more supported warehouses
+Add movement type;Add movement type
+Add new device;Add new device
+Add new location;Add new location
+Add new product;Add new product
+Add no stockable product;Add no stockable product
+Add other products to the menu;Add other products to the menu
+Add output delivery note;Add output delivery note
+Add pack;Add pack
+Add place name;Add place name
+Add points;Add points
+Add product;Add product
+Add product and subproducts;Add product and subproducts
+Add product attribute;Add product attribute
+Add product attribute type;Add product attribute type
+Add section to the page;Add section to the page
+Add source;Add source
+Add source message;Add source message
+Add stock;Add stock
+Add supplier name;Add supplier name
+Add tag;Add tag
+Add value;Add value
+Add warehouse name;Add warehouse name
+Adding modifier;Adding modifier
+Adding product to category;Adding product to category
+Additional cost;Additional cost
+Additional cost price;Additional cost price
+Additional Information;Additional Information
+Address 1;Address 1
+Address 2;Address 2
+Adjust;Adjust
+Administration;Administration
+Administration (Only applied for this device);Administration (Only applied for this device)
+Administration payment;Administration payment
+Advanced waiter;Advanced waiter
+Africa;Africa
+After create the document , you can edit it;After create the document , you can edit it
+All;All
+All categories;All categories
+All input formats need a name;All input formats need a name
+All lines;All lines
+All payed;All payed
+All status;All status
+All warehouses;All warehouses
+All worker sessions closed are required for close cash desk;All worker sessions closed are required for close cash desk
+All worker sessions must be closed before closing the cashdesk;All worker sessions must be closed before closing the cashdesk
+Allergens;Allergens
+ALLERGENS;ALLERGENS
+Allows to select multiple modifiers simultaneously;Allows to select multiple modifiers simultaneously
+Already processed note;Already processed note
+Always cash in quick payments;Always cash in quick payments
+Always visible;Always visible
+and;and
+and edit document;and edit document
+Annonymous;Annonymous
+Annotations;Annotations
+Annulation;Annulation
+Anonymous;Anonymous
+Anonymous card;Anonymous card
+Application sections;Application sections
+Apply rate;Apply rate
+Apply tax;Apply tax
+Arabic;Arabic
+as component of;as component of
+Asia;Asia
+Assigned;Assigned
+Assistants;Assistants
+Attention;Attention
+Auto add custom barcodes to new existences;Auto add custom barcodes to new existences
+Auto complete note lines with average price;Auto complete note lines with average price
+Auto print payment ticket on order;Auto print payment ticket on order
+Available;Available
+Available devices;Available devices
+Available printers;Available printers
+Average money by hour;Average money by hour
+Avobe maximum quantity;Avobe maximum quantity
+Bar;Bar
+Bar and restaurant suite with POS and Manager;Bar and restaurant suite with POS and Manager
+Bar work area (Only applied for this device);Bar work area (Only applied for this device)
+Barcode;Barcode
+Barcode options;Barcode options
+Barcode options BARCODE 1;Barcode options BARCODE 1
+Barcode options BARCODE 2;Barcode options BARCODE 2
+Barcode reader;Barcode reader
+Base measure unit;Base measure unit
+BASIC INFO;BASIC INFO
+Beach;Beach
+Beach (upside down);Beach (upside down)
+Beach bed;Beach bed
+Beach bed bamboo;Beach bed bamboo
+Beach gazebo;Beach gazebo
+Beach gazebo bamboo;Beach gazebo bamboo
+Beach hammock;Beach hammock
+Beach hammock double;Beach hammock double
+Beach hammock triple;Beach hammock triple
+Beach hammock VIP;Beach hammock VIP
+Beach hammock XL;Beach hammock XL
+Beach table;Beach table
+Beach umbrella;Beach umbrella
+Beep printer;Beep printer
+Beep when you print a ticket;Beep when you print a ticket
+Bluetooth Printer;Bluetooth Printer
+Bluetooth Printer detail;Bluetooth Printer detail
+Bookings enabled: Need to configure user and password;Bookings enabled: Need to configure user and password
+Boss Manager;Boss Manager
+Breakdown by pay method;Breakdown by pay method
+By default;By default
+By pay method;By pay method
+By tax;By tax
+Calculated cost price;Calculated cost price
+Calculated cost price (Based on delivery notes);Calculated cost price (Based on delivery notes)
+Calculated cost price (Based on ingredients price);Calculated cost price (Based on ingredients price)
+Camera;Camera
+Can't add ;Can't add 
+Can't add a category without name;Can't add a category without name
+Can't add a debt greater than the current ticket pending amount;Can't add a debt greater than the current ticket pending amount
+Can't add negative or 0 Debt;Can't add negative or 0 Debt
+Can't close cash desk;Can't close cash desk
+Can't close cashdesk;Can't close cashdesk
+Can't close ticket;Can't close ticket
+Can't create;Can't create
+Can't create order;Can't create order
+Can't decrease menu quantity;Can't decrease menu quantity
+Can't delete client;Can't delete client
+Can't delete completed delivery notes;Can't delete completed delivery notes
+Can't delete lines in a pending delivery note;Can't delete lines in a pending delivery note
+Can't delete this tax because there are some menu that have associated and can't exist menu without tax;Can't delete this tax because there are some menu that have associated and can't exist menu without tax
+Can't delete this tax because there are some product categories that have associated and can't exist product categories without tax;Can't delete this tax because there are some product categories that have associated and can't exist product categories without tax
+Can't delete this tax because there are some tickets that have associated;Can't delete this tax because there are some tickets that have associated
+Can't do partial payments in archived tickets;Can't do partial payments in archived tickets
+Can't edit a ticket with a invoice;Can't edit a ticket with a invoice
+Can't edit a ticket with a rectification document;Can't edit a ticket with a rectification document
+Can't find an existence with current options;Can't find an existence with current options
+Can't find format named;Can't find format named
+Can't find product named;Can't find product named
+Can't find rate named;Can't find rate named
+Can't find tax for quantity;Can't find tax for quantity
+Can't make complimentary;Can't make complimentary
+Can't merge;Can't merge
+Can't merge orders;Can't merge orders
+Can't nullify a ticket without lines;Can't nullify a ticket without lines
+Can't nullify the selected lines;Can't nullify the selected lines
+Can't nullify this document;Can't nullify this document
+Can't operate with this document;Can't operate with this document
+Can't pay empty tickets;Can't pay empty tickets
+Can't perform the operation;Can't perform the operation
+Can't withdraw more than existing amount;Can't withdraw more than existing amount
+Cancelled;Cancelled
+Card;Card
+Card debts;Card debts
+Card ID;Card ID
+Cash adjust;Cash adjust
+Cash balance;Cash balance
+Count;Count
+Cash desk line data;Cash desk line data
+Cash Desk must be opened to apply this automatic operation;Cash Desk must be opened to apply this automatic operation
+Cash Desk must be opened to nullify debts;Cash Desk must be opened to nullify debts
+Cash desk name;Cash desk name
+Cash desk settings;Cash desk settings
+Cash desk tags;Cash desk tags
+Cash don't match. Missing %@;Cash don't match. Missing %@
+Cash don't match. Surplus %@;Cash don't match. Surplus %@
+Cash inbalance;Cash inbalance
+Cash limit;Cash limit
+Cash match;Cash match
+CASH REPORT;CASH REPORT
+Get off the safe (Stacker);Get off the safe (Stacker)
+Move to security cashbox;Move to security cashbox
+Balance POS with cashmachine totals;Balance POS with cashmachine totals
+CashDesk and advanced waiter;CashDesk and advanced waiter
+Cashdesk is closed;Cashdesk is closed
+CashDesk line information;CashDesk line information
+Cashdesk session %@ (ID:%@);Cashdesk session %1$@ (ID:%2$@)
+Cashdro;Cashdro
+Cashkeeper;Cashkeeper
+CashMachine Inbalance;CashMachine Inbalance
+Categories;Categories
+Category;Category
+Category actions %@;Category actions %@
+Category name is required;Category name is required
+Caution!;Caution!
+CC Cancel;CC Cancel
+CCV;CCV
+Celery;Celery
+Centilitre;Centilitre
+Change status to pending;Change status to pending
+Characters by line;Characters by line
+Charger disconnected;Charger disconnected
+Check / Uncheck all the category;Check / Uncheck all the category
+Check the WiFi connection between this device and the server;Check the WiFi connection between this device and the server
+Check your internet access;Check your internet access
+Check your Wi-Fi connection;Check your Wi-Fi connection
+Chinese;Chinese
+Choose file;Choose file
+Choose file name;Choose file name
+Choose the payment method;Choose the payment method
+Clean images;Clean images
+Cleaning old history. Please wait, this maybe take several minutes.;Cleaning old history. Please wait, this maybe take several minutes.
+Clear;Clear
+Clear all;Clear all
+Client accounts;Client accounts
+Client city;Client city
+Client comments;Client comments
+Client document;Client document
+Client linked to the invoice;Client linked to the invoice
+Client linked to the ticket;Client linked to the ticket
+Client mail;Client mail
+Client mobile;Client mobile
+Client name;Client name
+Client phone;Client phone
+Client state;Client state
+Client zip code;Client zip code
+CLOSE;CLOSE
+Close cashdesk;Close cashdesk
+Close online orders automatically when pay;Close online orders automatically when pay
+Close payment screen automatically when ticket is paid;Close payment screen automatically when ticket is paid
+Close session;Close session
+Close work sessions and go to balance;Close work sessions and go to balance
+Closed;Closed
+Closing;Closing
+code;code
+Code Page;Code Page
+Code required;Code required
+Column;Column
+Common warehouses (Apply to all products);Common warehouses (Apply to all products)
+Company information;Company information
+Company name;Company name
+Complete Administration;Complete Administration
+Complete the input format names or delete not used input formats;Complete the input format names or delete not used input formats
+Complete ticket;Complete ticket
+Completed;Completed
+Components;Components
+Concept, price and rate are required fields;Concept, price and rate are required fields
+Confirm;Confirm
+Confirmed;Confirmed
+Conflicting header;Conflicting header
+Connecting...;Connecting...
+Connection error;Connection error
+Connection error.;Connection error.
+Connection settings;Connection settings
+Consume components;Consume components
+Consumption;Consumption
+Consumption profile;Consumption profile
+Consumptions;Consumptions
+License is expired;License is expired
+Contact Dual Link to renew your license;Contact Dual Link to renew your license
+Container;Container
+Cnt;Cnt
+Cost price;Cost price
+COUNT & IMBALANCE;COUNT & IMBALANCE
+Course;Course
+Courses;Courses
+Create and print card;Create and print card
+Create new tag;Create new tag
+Create rectification document;Create rectification document
+Create tag;Create tag
+Creation date;Creation date
+Crustaceans;Crustaceans
+csv file name;csv file name
+Accumulative kitchen summaries;Accumulative kitchen summaries
+Currency already available;Currency already available
+Current currency;Current currency
+Current debts;Current debts
+New debts;New debts
+Current economic account;Current economic account
+CURRENT NETWORK;CURRENT NETWORK
+Current ticket pending amount;Current ticket pending amount
+Current VIP Points;Current VIP Points
+Custom;Custom
+custom barcode;custom barcode
+Custom concepts;Custom concepts
+Custom input;Custom input
+Custom input note;Custom input note
+Custom Input Note;Custom Input Note
+Custom input notes;Custom input notes
+Messages from an order to product sources;Messages from an order to product sources
+Automatically send to kitchen pending products on order exit;Automatically send to kitchen pending products on order exit
+Require confirmation when send all lines to kitchen;Require confirmation when send all lines to kitchen
+Don't use automatic kitchen order (Tags);Don't use automatic kitchen order (Tags)
+When sending to the kitchen without selecting any products, only send the first pending course;When sending to the kitchen without selecting any products, only send the first pending course
+Allow only one claim per product;Allow only one claim per product
+Disable claims;Disable claims
+Show full date on printed tickets;Show full date on printed tickets
+Show comments in Big font on kitchen tickets;Show comments in Big font on kitchen tickets
+Custom movement type;Custom movement type
+Custom output;Custom output
+Custom output movement;Custom output movement
+Custom output note;Custom output note
+Custom output notes;Custom output notes
+Custom pay method;Custom pay method
+Customize payment tickets;Customize payment tickets
+Data;Data
+Database encoding error.;Database encoding error.
+DataBase repaired;DataBase repaired
+Date established by the local;Date established by the local
+Date requested by the client;Date requested by the client
+Debt payment;Debt payment
+Debt payments;Debt payments
+DEBTS MANAGEMENT;DEBTS MANAGEMENT
+Default;Default
+Default cash desk float;Default cash desk float
+Default cash payments image;Default cash payments image
+Default consumption profile;Default consumption profile
+Default consumption warehouse;Default consumption warehouse
+Default credit card payments;Default credit card payments
+Default gourmet check payments image;Default gourmet check payments image
+Default hotel payments image;Default hotel payments image
+Default pin pad device not found;Default pin pad device not found
+Default product consumption mode;Default product consumption mode
+Default product format;Default product format
+Default purchase tax (Product category);Default purchase tax (Product category)
+Default tax (Product category);Default tax (Product category)
+Delete all history previous to date;Delete all history previous to date
+Delete all ticket lines;Delete all ticket lines
+Delete empty orders when returning to the map;Delete empty orders when returning to the map
+Delete from iCloud;Delete from iCloud
+Delete History;Delete History
+Delete mode;Delete mode
+Delete modifier;Delete modifier
+Delete not used images;Delete not used images
+Delete product;Delete product
+Returned;Returned
+Delivery iPad;Delivery iPad
+DEMO License;DEMO License
+Demo version expired;Demo version expired
+Denied;Denied
+Deselect all categories;Deselect all categories
+Destination;Destination
+Destination warehouse;Destination warehouse
+Destination:;Destination:
+Detailed discounts;Detailed discounts
+DETAILED INFO;DETAILED INFO
+Detailed complimentaries;Detailed complimentaries
+Detailed kitchen summaries;Detailed kitchen summaries
+Device;Device
+Device not found;Device not found
+Devices;Devices
+Disable;Disable
+Disabled;Disabled
+Disabling Synchronization...;Disabling Synchronization...
+Distribute in all menus;Distribute in all menus
+Divide all;Divide all
+Divide by product;Divide by product
+Do nothing;Do nothing
+Just close;Just close
+Do you want to create and print a card?;Do you want to create and print a card?
+Do you want to print the card?;Do you want to print the card?
+Do you want to transform the quantity of all the existences of this product?;Do you want to transform the quantity of all the existences of this product?
+Dock Printer detail;Dock Printer detail
+Document is closed;Document is closed
+Document operations;Document operations
+Don't link to any product category;Don't link to any product category
+Don't show covers screen on order creation;Don't show covers screen on order creation
+Don't show print button;Don't show print button
+Done;Done
+Double;Double
+Dual Link Restaurant;Dual Link Restaurant
+Dual Link Retail;Dual Link Retail
+Dual Link Waiter is tailored for iOS. Result: the best partner in the most demanding “services”. It is Mr. Waiter. Fast, incredibly lightweight, easy to use and much more.;Dual Link Waiter is tailored for iOS. Result: the best partner in the most demanding “services”. It is Mr. Waiter. Fast, incredibly lightweight, easy to use and much more.
+EA movement;EA movement
+Economic account;Economic account
+Economic account movement;Economic account movement
+Economic entity is nil;Economic entity is nil
+Edit category;Edit category
+Eggs;Eggs
+Email;Email
+Empty;Empty
+Coins;Coins
+Bills;Bills
+Coins & bills;Coins & bills
+Enable;Enable
+Enabled;Enabled
+Enabling Synchronization...;Enabling Synchronization...
+Encoding;Encoding
+END OF SESSION;END OF SESSION
+End time;End time
+Enter license;Enter license
+Enter Password;Enter Password
+Enter the code provided by the developers;Enter the code provided by the developers
+Entity name;Entity name
+Equivalence;Equivalence
+ERROR;ERROR
+ESC-POS 42 Characteres by line;ESC-POS 42 Characteres by line
+ESC-POS 48 Characteres by line;ESC-POS 48 Characteres by line
+ESC/POS;ESC/POS
+Europe;Europe
+Example;Example
+Exit;Exit
+Minute;Minute
+Hour;Hour
+Day;Day
+Week;Week
+Month;Month
+Year;Year
+Minutes;Minutes
+Hours;Hours
+Days;Days
+Weeks;Weeks
+Months;Months
+Years;Years
+Expiration;Expiration
+No expiration;No expiration
+Expiration date;Expiration date
+Expiration time;Expiration time
+Expiration on;Expiration on
+Expiration in;Expiration in
+expires;expires
+External beeper (connected to cash drawer port);External beeper (connected to cash drawer port)
+External display;External display
+External display welcome message;External display welcome message
+External reference;External reference
+Creator document;Creator document
+Extra data;Extra data
+Extraordinary input;Extraordinary input
+Extraordinary movements;Extraordinary movements
+failed to convert data to string;failed to convert data to string
+failed to convert string to data;failed to convert string to data
+Favourites;Favourites
+Files uploaded successfully;Files uploaded successfully
+Filter by subproducts;Filter by subproducts
+Filter summaries by print profile;Filter summaries by print profile
+Final cash;Final cash
+Finalize input movement;Finalize input movement
+Finalize inventory;Finalize inventory
+Finalize movement;Finalize movement
+Finalize output movement;Finalize output movement
+Finished;Finished
+First, select a consumption profile;First, select a consumption profile
+Fish;Fish
+FIXED COST;FIXED COST
+Footer Logo;Footer Logo
+For sale;For sale
+For sale tax;For sale tax
+Format not found;Format not found
+Formats;Formats
+Format;Format
+from;from
+FUNDS MANAGEMENT;FUNDS MANAGEMENT
+Funds to add;Funds to add
+Funds to remove;Funds to remove
+Gateway address;Gateway address
+General;General
+Generate;Generate
+Generate and print;Generate and print
+Show money in the cash machine;Show money in the cash machine
+Cash machine operations;Cash machine operations
+Global ranking;Global ranking
+Gluten;Gluten
+Go to Administration > More > Bookings;Go to Administration > More > Bookings
+Go to date;Go to date
+Go to product detail > Subproducts to activate this;Go to product detail > Subproducts to activate this
+Go to wifi settings;Go to wifi settings
+Grass;Grass
+Greeting;Greeting
+Group;Group
+Group all;Group all
+Heart;Heart
+Heart table;Heart table
+Hide totals on worker check-out screen;Hide totals on worker check-out screen
+Host;Host
+How many credit you want to add to this client?;How many credit you want to add to this client?
+iAP Printer;iAP Printer
+iCloud backup options;iCloud backup options
+iCloud unavailable;iCloud unavailable
+ID;ID
+Identifier;Identifier
+If the iPad is not connected, the Waiter App connection can fail;If the iPad is not connected, the Waiter App connection can fail
+If you restore the sample data, your actual data will be deleted and DualLink will be deactivated. We encourage you to make a backup;If you restore the sample data, your actual data will be deleted and DualLink will be deactivated. We encourage you to make a backup
+Ignore bulk;Ignore bulk
+Images;Images
+Impossible to activate;Impossible to activate
+Impossible to divide;Impossible to divide
+In process;In process
+In relation to the base price of the products;In relation to the base price of the products
+In relation to the current rate prices;In relation to the current rate prices
+Imbalance adjust;Imbalance adjust
+Include client data in kitchen tickets;Include client data in kitchen tickets
+Include Payments by hour in the cashdesk report;Include Payments by hour in the cashdesk report
+Include Payments by worker in the cashdesk report;Include Payments by worker in the cashdesk report
+Include Sales by hour in the cashdesk report;Include Sales by hour in the cashdesk report
+Include Sales by tag in the cashdesk report;Include Sales by tag in the cashdesk report
+Include transactions in the payment ticket;Include transactions in the payment ticket
+Incompatible groups;Incompatible groups
+Incomplete lines data;Incomplete lines data
+Increasable;Increasable
+Increase or decrease the prices of all the modifiers at once;Increase or decrease the prices of all the modifiers at once
+Increase or decrease the quantities of each modifier;Increase or decrease the quantities of each modifier
+Incremental;Incremental
+INGREDIENTS;INGREDIENTS
+Ingredients;Ingredients
+Initializing...;Initializing...
+Input delivery note;Input delivery note
+Input format;Input format
+Input formats;Input formats
+Input movement complete;Input movement complete
+Input note;Input note
+Input the name of the group;Input the name of the group
+Insert additional cost price;Insert additional cost price
+Insert IP address to connect manually;Insert IP address to connect manually
+Insert the location name;Insert the location name
+Insert the name here;Insert the name here
+Insufficient funds;Insufficient funds
+Insufficient money in economic account;Insufficient money in economic account
+Insufficient money in this account;Insufficient money in this account
+Insuficient permissions;Insuficient permissions
+Internet Connection Error;Internet Connection Error
+Internet search;Internet search
+Inventories;Inventories
+Inventory;Inventory
+Inventory complete;Inventory complete
+Complimentary responsibles;Complimentary responsibles
+Invoice cancellation prefix;Invoice cancellation prefix
+Invoice prefix;Invoice prefix
+Invoice printer;Invoice printer
+IP address;IP address
+IP Address;IP Address
+IP:port;IP:port
+Is default device;Is default device
+Is default product format;Is default product format
+Is spent for today;Is spent for today
+It's necessary that the menu has a name and a tax to create;It's necessary that the menu has a name and a tax to create
+Jacuzzi;Jacuzzi
+Keypad;Keypad
+Kitchen ticket prefix;Kitchen ticket prefix
+L;L
+LA movement;LA movement
+Lamp;Lamp
+Lapso Pay;Lapso Pay
+Last auto barcode number;Last auto barcode number
+Last tickets;Last tickets
+Library;Library
+License enabled;License enabled
+Light;Light
+Limit;Limit
+Limited waiter;Limited waiter
+Line detail;Line detail
+Link product category with modifier category;Link product category with modifier category
+Link this product with category;Link this product with category
+Linked apps;Linked apps
+Linked chef apps;Linked chef apps
+Linked client;Linked client
+Linked tickets;Linked tickets
+Linked with device %@;Linked with device %@
+Linked with secondary cash desk: %@;Linked with secondary cash desk: %@
+List of all products with price, divided by category;List of all products with price, divided by category
+List of menus;List of menus
+List of packs;List of packs
+Litre;Litre
+Meter;Meter
+Centimeter;Centimeter
+Inch;Inch
+Load permissions;Load permissions
+Local;Local
+Local currency;Local currency
+Location bookings;Location bookings
+Location number;Location number
+Locations;Locations
+Log;Log
+Logged in worker;Logged in worker
+Logo;Logo
+Logout worker automatically after a while;Logout worker automatically after a while
+Logout worker automatically after payment;Logout worker automatically after payment
+Loss;Loss
+loss;loss
+Loyalty account;Loyalty account
+Loyalty account movement;Loyalty account movement
+Loyalty accounts;Loyalty accounts
+Loyalty payments;Loyalty payments
+Loyalty points;Loyalty points
+LOYALTY POINTS MANAGEMENT;LOYALTY POINTS MANAGEMENT
+Lupins;Lupins
+Mail account is not available;Mail account is not available
+Make this product a subproduct of;Make this product a subproduct of
+Manage existences in Boss Manager;Manage existences in Boss Manager
+Manage existences locally;Manage existences locally
+Manage format modifiers;Manage format modifiers
+Manage options related to your backups in iCloud;Manage options related to your backups in iCloud
+Manage tips;Manage tips
+Management of %@;Management of %@
+Manual payment;Manual payment
+Manual tip;Manual tip
+Map settings;Map settings
+Mark as received;Mark as received
+Mark as sent;Mark as sent
+Mass measure unit;Mass measure unit
+Master (iPad) network name;Master (iPad) network name
+MAXIMUM STOCK;MAXIMUM STOCK
+Measure unit;Measure unit
+Measure unit or container;Measure unit or container
+Measure units;Measure units
+Menu;Menu
+MENU DATA;MENU DATA
+Menu list;Menu list
+Menu: %@;Menu: %@
+Milk;Milk
+Minimum fee;Minimum fee
+MINIMUM STOCK;MINIMUM STOCK
+Missing fields;Missing fields
+Missing header;Missing header
+Missing required CSV header;Missing required CSV header
+Moc error;Moc error
+Modifier;Modifier
+Modifier category name;Modifier category name
+Modifier name;Modifier name
+Modifier of %@;Modifier of %@
+Modifier of %@ in Menú: %@;Modifier of %1$@ in Menú: %2$@
+Modifiers;Modifiers
+Mollusk;Mollusk
+more;more
+More info about add-ons;More info about add-ons
+Move products to other category;Move products to other category
+Moved;Moved
+Movement;Movement
+Internal order;Internal order
+Internal return;Internal return
+Movement complete;Movement complete
+Movement notes;Movement notes
+Multiple;Multiple
+Multiple documents;Multiple documents
+Multiple selection;Multiple selection
+Mustard;Mustard
+My place;My place
+Need a date between;Need a date between
+Need to create a rectificative document;Need to create a rectificative document
+Need to open cashdesk to make a operation;Need to open cashdesk to make a operation
+Need to open cashdesk to make a payment;Need to open cashdesk to make a payment
+Need to open cashdesk to rectify documents;Need to open cashdesk to rectify documents
+Need to select a custom destination;Need to select a custom destination
+Need to select a origin and destination warehouse;Need to select a origin and destination warehouse
+Need to select a supplier;Need to select a supplier
+Need to select a warehouse;Need to select a warehouse
+Need to select a worker;Need to select a worker
+NEEDED NETWORK;NEEDED NETWORK
+Network options;Network options
+Never;Never
+New category;New category
+New custom concept;New custom concept
+New complimentary responsible;New complimentary responsible
+New pay method;New pay method
+New payment entity;New payment entity
+New serial number;New serial number
+New tax;New tax
+New Zone;New Zone
+Next cash desk float;Next cash desk float
+Next invoice;Next invoice
+Next invoice cancellation number;Next invoice cancellation number
+Next invoice number;Next invoice number
+Next ticket cancellation number;Next ticket cancellation number
+Next ticket number;Next ticket number
+NLO;NLO
+NO;NO
+No attribute types;No attribute types
+No basic rule;No basic rule
+No card;No card
+No cash desk session;No cash desk session
+No category;No category
+No CC;No CC
+No client;No client
+No coincidences with offer products;No coincidences with offer products
+No concept;No concept
+No consumption;No consumption
+No CSV files found in documents folder;No CSV files found in documents folder
+No destination;No destination
+No document selected;No document selected
+No expiration date;No expiration date
+No format;No format
+No invoice;No invoice
+No invoice client ERROR;No invoice client ERROR
+No License;No License
+No limit;No limit
+No linked card;No linked card
+No linked client;No linked client
+No linked device;No linked device
+No location;No location
+No measure unit;No measure unit
+No MU;No MU
+No name;No name
+No network;No network
+NO NETWORK;NO NETWORK
+No opened session;No opened session
+No operations;No operations
+No order associated;No order associated
+No origin;No origin
+No pay method selected;No pay method selected
+No place selected;No place selected
+No printer selected;No printer selected
+No product;No product
+No product format;No product format
+No rate;No rate
+No restriction;No restriction
+No show;No show
+No source;No source
+NO TIP;NO TIP
+NO FIXED TIP;NO FIXED TIP
+No user;No user
+No valid products selected;No valid products selected
+No warehouse;No warehouse
+No warehouses;No warehouses
+No worker has permission to access to the cash desk. Assign permissions to a worker from the administration section;No worker has permission to access to the cash desk. Assign permissions to a worker from the administration section
+Normal mode;Normal mode
+Normal rounding;Normal rounding
+North america;North america
+Not linked tickets;Not linked tickets
+Not payed;Not payed
+NOT PAYED;NOT PAYED
+Not procesed;Not procesed
+Note;Note
+Nullified invoice;Nullified invoice
+Nullify;Nullify
+Nullify and recover;Nullify and recover
+Nullify and recover on ORDERS area;Nullify and recover on ORDERS area
+Nullify and recover on TABLES area;Nullify and recover on TABLES area
+Nullify debt;Nullify debt
+Nullify document;Nullify document
+Number of extra beeps for printers;Number of extra beeps for printers
+Number of invoices;Number of invoices
+Sales avg by ticket;Sales avg by ticket
+Sales avg by covers;Sales avg by covers
+Number of minutes before highlighting table time;Number of minutes before highlighting table time
+Number of minutes without order interaction before highlighting table name;Number of minutes without order interaction before highlighting table name
+Number of people;Number of people
+Number of sections: %lu;Number of sections: %lu
+Number of tickets;Number of tickets
+Number of transactions;Number of transactions
+Numbers;Numbers
+Numbers & Formats;Numbers & Formats
+Nuts;Nuts
+Oceania;Oceania
+Ok;Ok
+Old;Old
+On the way;On the way
+Delivered;Delivered
+One format required;One format required
+One-eyed CashDesk: Shows no cash totals;One-eyed CashDesk: Shows no cash totals
+Online;Online
+Online (Only applied for this device);Online (Only applied for this device)
+Online orders;Online orders
+Online orders end time;Online orders end time
+Online orders start time;Online orders start time
+Online orders divided by time range;Online orders divided by time range
+OPEN;OPEN
+Open drawer;Open drawer
+Open session;Open session
+Open the cash desk to start a new session.;Open the cash desk to start a new session.
+Opened orders;Opened orders
+Opened ticket;Opened ticket
+Opened tickets;Opened tickets
+Operate on rate prices;Operate on rate prices
+Operation cancelled;Operation cancelled
+Operation successful;Operation successful
+Operation type;Operation type
+Operations with lines;Operations with lines
+Options;Options
+Order can't be finished;Order can't be finished
+Order confirmed;Order confirmed
+Order detail;Order detail
+Order is payed;Order is payed
+Order name;Order name
+Order comments;Order comments
+Orders;Orders
+Origin;Origin
+Origin warehouse;Origin warehouse
+Origin:;Origin:
+Other bookings;Other bookings
+Other iPad (%@);Other iPad (%@)
+output;output
+Output delivery note;Output delivery note
+Output movement complete;Output movement complete
+Output note;Output note
+Output type;Output type
+PACK DATA;PACK DATA
+Packs;Packs
+Partial inventory;Partial inventory
+Partially inventory;Partially inventory
+Password;Password
+User;User
+PAX;PAX
+PAX Invited;PAX Invited
+Pay & close;Pay & close
+Pay method is missing;Pay method is missing
+Pay methods;Pay methods
+Pay with account;Pay with account
+Pay with economic account;Pay with economic account
+Pay with loyalty account;Pay with loyalty account
+Payed, waiting change ...;Payed, waiting change ...
+Payment options;Payment options
+Payment ticket printers;Payment ticket printers
+PayThunder;PayThunder
+PDF;PDF
+Peanuts;Peanuts
+Pending transactions;Pending transactions
+Percentaje;Percentaje
+Phone - Mobile;Phone - Mobile
+Piano;Piano
+Pin pad;Pin pad
+Place delivery note;Place delivery note
+Plant;Plant
+Please enter to administration section and check if the product exists;Please enter to administration section and check if the product exists
+Please check your WiFi connectivity.;Please check your WiFi connectivity.
+Please select a destination Warehouse;Please select a destination Warehouse
+Please select a origin Warehouse;Please select a origin Warehouse
+Please select a Warehouse;Please select a Warehouse
+Please try again;Please try again
+Please, confirm the deletion of the application data. We encourage you to make a backup before making deletion;Please, confirm the deletion of the application data. We encourage you to make a backup before making deletion
+Please, select the pay method you are using to perform this operation;Please, select the pay method you are using to perform this operation
+Plug;Plug
+Points to add;Points to add
+Points to remove;Points to remove
+Pool;Pool
+Port;Port
+POS Extra Terminal;POS Extra Terminal
+POS License;POS License
+Press home button, open Settings app and go to wifi section;Press home button, open Settings app and go to wifi section
+Price by %@;Price by %@
+Prices;Prices
+Print;Print
+PRINT;PRINT
+Print and remove obligatory tips;Print and remove obligatory tips
+Print card;Print card
+Print gift ticket;Print gift ticket
+Print kitchen summaries only once;Print kitchen summaries only once
+Print kitchen summaries only with ordered lines;Print kitchen summaries only with ordered lines
+Print profile detail;Print profile detail
+Print self test;Print self test
+Print ticket in complete payment;Print ticket in complete payment
+Print ticket in complete payments;Print ticket in complete payments
+Print ticket in quick payments;Print ticket in quick payments
+Print ticket when delete an order;Print ticket when delete an order
+Print ticket when do a debt or complimentary;Print ticket when do a debt or complimentary
+Print ticket when the order location changes;Print ticket when the order location changes
+Printer detail;Printer detail
+Printer error;Printer error
+Printer Mode;Printer Mode
+Printer name;Printer name
+Printer options;Printer options
+Printer profile;Printer profile
+Printer type;Printer type
+Printer type and number of characters;Printer type and number of characters
+Printers;Printers
+Printers by kitchen source;Printers by kitchen source
+Printers list;Printers list
+Private comments;Private comments
+Process;Process
+PRODUCT DATA;PRODUCT DATA
+Product default warehouse;Product default warehouse
+Product detail;Product detail
+Product formats;Product formats
+Product lines;Product lines
+Product name;Product name
+Product name, measure unit and product category are required;Product name, measure unit and product category are required
+Product not found;Product not found
+Product sales report;Product sales report
+Products;Products
+Products and rates;Products and rates
+Products, formats and rates;Products, formats and rates
+Profile name;Profile name
+Profiles;Profiles
+Promotional code used;Promotional code used
+Promotional code expiration;Promotional code expiration
+Protocol;Protocol
+Obtain license;Obtain license
+Purchase tax;Purchase tax
+Quantity: %li;Quantity: %li
+Quick payment enabled in all areas;Quick payment enabled in all areas
+Rate detail;Rate detail
+Rate not found;Rate not found
+Rate: Standard;Rate: Standard
+Rates;Rates
+Received;Received
+Received (With trouble);Received (With trouble)
+Received responseDict in get sync command is not an NSDictionary;Received responseDict in get sync command is not an NSDictionary
+Received status in get sync command is not OK;Received status in get sync command is not OK
+Reception date;Reception date
+Reception worker;Reception worker
+Recharge account;Recharge account
+Recharges loyalty account;Recharges loyalty account
+Create anonymous card if needed;Create anonymous card if needed
+Auto assign new barcode to create anonymous cards;Auto assign new barcode to create anonymous cards
+Redsys;Redsys
+Refund;Refund
+Refund & Vip points;Refund & Vip points
+Refund & Vip Points;Refund & Vip Points
+Refund and client account;Refund and client account
+Refund ticket;Refund ticket
+Refund&CA;Refund&CA
+Refresh from iCloud;Refresh from iCloud
+Refund;Refund
+Remaining quantity;Remaining quantity
+Remove;Remove
+Remove & Increase components;Remove & Increase components
+Remove Category;Remove Category
+Remove funds;Remove funds
+Remove Image;Remove Image
+Remove points;Remove points
+Remove products and subcategories;Remove products and subcategories
+Remove serial number;Remove serial number
+Remove some products from the menu;Remove some products from the menu
+Remove stock;Remove stock
+Report of orders in progress;Report of orders in progress
+Report of payments by worker;Report of payments by worker
+Request;Request
+Require confirmation in quick payments;Require confirmation in quick payments
+Require confirmation when printing a ticket with not sent lines;Require confirmation when printing a ticket with not sent lines
+Required modifiers;Required modifiers
+Reserved;Reserved
+Reset cashbox;Reset cashbox
+Resize images;Resize images
+Retired;Retired
+Reupload to Boss Manager;Reupload to Boss Manager
+RFID Reader;RFID Reader
+Round rate prices;Round rate prices
+Round type: Down;Round type: Down
+Round type: None;Round type: None
+Round type: Normal;Round type: Normal
+Round type: Up;Round type: Up
+Rounding down;Rounding down
+Rounding up;Rounding up
+Row;Row
+Scales;Scales
+Secondaries cash desks settings;Secondaries cash desks settings
+Seconds to wait before close payment screen;Seconds to wait before close payment screen
+Seconds to wait before logout automatically worker;Seconds to wait before logout automatically worker
+Secure cashdesk system;Secure cashdesk system
+Select a category;Select a category
+Select a option;Select a option
+Select a pay method;Select a pay method
+Select a pay method to do a nullify operation;Select a pay method to do a nullify operation
+Select a source;Select a source
+Select a tax (Category tax);Select a tax (Category tax)
+Select a valid economic entity;Select a valid economic entity
+Select all categories;Select all categories
+Select another order;Select another order
+Select another ticket;Select another ticket
+Select attributes;Select attributes
+Select date;Select date
+Select destination;Select destination
+Select destination type;Select destination type
+Select destination warehouse;Select destination warehouse
+Select files manually;Select files manually
+Select format;Select format
+Select invoice;Select invoice
+Select number of people;Select number of people
+Select operation;Select operation
+Select operation :;Select operation :
+Select operation:;Select operation:
+Select origin;Select origin
+Select origin warehouse;Select origin warehouse
+Select pay method;Select pay method
+Select print opction;Select print opction
+Select product category;Select product category
+Select product format;Select product format
+Select rate;Select rate
+Select round type;Select round type
+Select supplier;Select supplier
+Select tax;Select tax
+Select the course that will be applied to all the products from this menu category, or set the default option to use the course assigned to the product category of each product;Select the course that will be applied to all the products from this menu category, or set the default option to use the course assigned to the product category of each product
+Select the permissions profile you want to load;Select the permissions profile you want to load
+Select warehouse;Select warehouse
+Select worker;Select worker
+Send mail;Send mail
+Sent;Sent
+Sent (With trouble);Sent (With trouble)
+Serial number;Serial number
+Serial numbers;Serial numbers
+Served by;Served by
+Service;Service
+Service charge not included;Service charge not included
+Sesame;Sesame
+Session not finished;Session not finished
+Set as subproduct;Set as subproduct
+Set Category;Set Category
+Set price to all modifiers;Set price to all modifiers
+Settings by zone;Settings by zone
+Shop;Shop
+Show;Show
+Show & Hide;Show & Hide
+Show error when you are connected to a wrong network;Show error when you are connected to a wrong network
+Show Modifiers;Show Modifiers
+Show open orders;Show open orders
+Show price in modifiers;Show price in modifiers
+Show price per unit for bulk products;Show price per unit for bulk products
+Show rate names;Show rate names
+Show table time on the map;Show table time on the map
+Show ticket benefits percentage to worker;Show ticket benefits percentage to worker
+Show tips button in cash desk screen;Show tips button in cash desk screen
+Show menus;Show menus
+Simple;Simple
+Slaves (iPods and slave ipads) network name;Slaves (iPods and slave ipads) network name
+Slot Machine;Slot Machine
+SN;SN
+Soccer;Soccer
+Sofa;Sofa
+Software;Software
+Some Menu products are inside a ticket;Some Menu products are inside a ticket
+Some menu products are out of stock;Some menu products are out of stock
+Some Subcashdesks have money. What do you want to do?;Some Subcashdesks have money. What do you want to do?
+Some tickets can't be unlinked;Some tickets can't be unlinked
+Sort by: Date;Sort by: Date
+Sort by: Ticket number;Sort by: Ticket number
+Sort by: Total amount;Sort by: Total amount
+Sort by: Units Sold;Sort by: Units Sold
+Source;Source
+South America;South America
+Soya;Soya
+Specify the amount you want to pay;Specify the amount you want to pay
+Stairs;Stairs
+Standard rate;Standard rate
+Star;Star
+"Star Raster 2""";"Star Raster 2"""
+"Star Raster 3""";"Star Raster 3"""
+"Star Raster 4""";"Star Raster 4"""
+START OF SESSION;START OF SESSION
+Start time;Start time
+Status;Status
+Stock;Stock
+Stock & Products;Stock & Products
+Stock consumptions;Stock consumptions
+Stock in other warehouses;Stock in other warehouses
+Stock Input format;Stock Input format
+Stock set;Stock set
+stock set;stock set
+Stock set ID;Stock set ID
+Stone;Stone
+Stool;Stool
+Subcashdesks;Subcashdesks
+Subcategories;Subcategories
+Subnet mask;Subnet mask
+Subporoduct assistant;Subporoduct assistant
+Subproduct;Subproduct
+Subproducts;Subproducts
+Subproducts disabled;Subproducts disabled
+Success;Success
+Suggested tips;Suggested tips
+Sulphates;Sulphates
+Supplier address;Supplier address
+Supplier city;Supplier city
+Supplier delivery note;Supplier delivery note
+Supplier document;Supplier document
+Supplier mail;Supplier mail
+Supplier mobile;Supplier mobile
+Supplier name;Supplier name
+Supplier phone;Supplier phone
+Supplier state;Supplier state
+Supplier zip code;Supplier zip code
+Synchronizing with Boss Manager;Synchronizing with Boss Manager
+Table;Table
+Tables;Tables
+Tables (All linked devices);Tables (All linked devices)
+Tag name;Tag name
+Tags;Tags
+Tap to add tickets;Tap to add tickets
+Tarifas;Tarifas
+TAX;TAX
+Tax base;Tax base
+Tax base without discount;Tax base without discount
+Tax not found;Tax not found
+TCP Printer;TCP Printer
+TCP Printer detail;TCP Printer detail
+Test demo version;Test demo version
+Text comments with big font size;Text comments with big font size
+Text for invoices;Text for invoices
+The action will be applied to the selected lines. If nothing is selected, the action will be applied to the whole ticket.;The action will be applied to the selected lines. If nothing is selected, the action will be applied to the whole ticket.
+The amount to be divided can not equal or exceed the amount of the existing line;The amount to be divided can not equal or exceed the amount of the existing line
+The card exists;The card exists
+The card no exists;The card no exists
+The CSV headers are incorrect;The CSV headers are incorrect
+The existence quantity is not enough for the consumption;The existence quantity is not enough for the consumption
+The extraordinary input or output in a currency different from the local currency can only be made in cash;The extraordinary input or output in a currency different from the local currency can only be made in cash
+The field 'Quantity' are required;The field 'Quantity' are required
+The fields 'Quantity' and 'Operation Type' are required;The fields 'Quantity' and 'Operation Type' are required
+the key must not to be nil;the key must not to be nil
+The Menu product is inside a ticket;The Menu product is inside a ticket
+The name is required;The name is required
+The next invoice cancellation number already exist;The next invoice cancellation number already exist
+The next invoice number already exist;The next invoice number already exist
+The next ticket cancellation number already exist in an archived ticket;The next ticket cancellation number already exist in an archived ticket
+The next ticket number already exist in an archived ticket;The next ticket number already exist in an archived ticket
+The next ticket number already exist in an opened ticket;The next ticket number already exist in an opened ticket
+The operation can't be done with the selected products;The operation can't be done with the selected products
+The origin and destination warehouses must be different.;The origin and destination warehouses must be different.
+The pin must necessarily contain 4 numeric digits;The pin must necessarily contain 4 numeric digits
+The place has not changed the date requested by the user;The place has not changed the date requested by the user
+The printer '%@' is failing;The printer '%@' is failing
+The requested change is not valid;The requested change is not valid
+The start date can't be greater than the end date;The start date can't be greater than the end date
+The table can't be deleted because it has an open order. Finish the order and then you will be able to delete the table.;The table can't be deleted because it has an open order. Finish the order and then you will be able to delete the table.
+The value need to be positive;The value need to be positive
+The worker has opened ticket lines;The worker has opened ticket lines
+There are no packs. You can manage from the admin section (Packs);There are no packs. You can manage from the admin section (Packs)
+There are still open orders;There are still open orders
+Do you want to close the cashdesk anyway?;Do you want to close the cashdesk anyway?
+There aren't common supported warehouses in your selection.;There aren't common supported warehouses in your selection.
+There's no zone. Please create a new zone to add locations.;There's no zone. Please create a new zone to add locations.
+Thermostat;Thermostat
+This card is already linked with this entity;This card is already linked with this entity
+This category has a limit of %li product/s for menu;This category has a limit of %li product/s for menu
+This currency corresponds to the default currency;This currency corresponds to the default currency
+This currency is already available;This currency is already available
+This description appears in the list of products in the restaurant menu;This description appears in the list of products in the restaurant menu
+This description appears on the product detail in the restaurant menu;This description appears on the product detail in the restaurant menu
+This device already has linked a secondary cash desk linked, continue?;This device already has linked a secondary cash desk linked, continue?
+This device is not linked to a server;This device is not linked to a server
+This document can not be nullified;This document can not be nullified
+This document is already rectified by another document;This document is already rectified by another document
+This document is not closed, close it before operate with it;This document is not closed, close it before operate with it
+This document was rectified by another document;This document was rectified by another document
+This iPad (%@);This iPad (%@)
+This iPad appear as: %@ (%@);This iPad appear as: %1$@ (%2$@)
+This is a subproduct of;This is a subproduct of
+This Menu is inside a ticket;This Menu is inside a ticket
+This modifier have associated products. Unlink the products to remove the modifier;This modifier have associated products. Unlink the products to remove the modifier
+"This option will only be active when you have the options ""Multiple selection"", ""Incrementable"" or both.";"This option will only be active when you have the options ""Multiple selection"", ""Incrementable"" or both."
+This product has no subproducts. Add subproducts to this product from the admin section (Products);This product has no subproducts. Add subproducts to this product from the admin section (Products)
+This product has not enough stock in;This product has not enough stock in
+This product is in one or more menus.;This product is in one or more menus.
+This product is in one or more tickets or menus.;This product is in one or more tickets or menus.
+This product is in one or more tickets.;This product is in one or more tickets.
+This product is out of stock for today;This product is out of stock for today
+This product is out of stock in;This product is out of stock in
+Ticket can't be nullified;Ticket can't be nullified
+Ticket cancellation prefix;Ticket cancellation prefix
+Ticket debt;Ticket debt
+Ticket need to be closed;Ticket need to be closed
+Ticket number;Ticket number
+Ticket prefix;Ticket prefix
+Ticket printer;Ticket printer
+TicketID is nil;TicketID is nil
+Tickets summary;Tickets summary
+Tip name;Tip name
+Tip placeholder;Tip placeholder
+Tips;Tips
+Tips open drawer;Tips open drawer
+To Add a new product, is mandatory to enter its name and measure unit;To Add a new product, is mandatory to enter its name and measure unit
+to ticket;to ticket
+Tobacco;Tobacco
+Total additional cost;Total additional cost
+Total amount:;Total amount:
+Total amount: %@;Total amount: %@
+TOTAL COUNT;TOTAL COUNT
+Total per person;Total per person
+TOTAL PAYMENTS;TOTAL PAYMENTS
+Total payments;Total payments
+Total tax;Total tax
+Total time;Total time
+traceability;traceability
+Traceability;Traceability
+Traceability ID;Traceability ID
+Transaction refunded;Transaction refunded
+Transferencia completada;Transferencia completada
+Transform in tickets;Transform in tickets
+Try again;Try again
+Type;Type
+U;U
+Unable to generate the report;Unable to generate the report
+Undo adjust;Undo adjust
+Unexpected error has occurred.;Unexpected error has occurred.
+Unit weight for scales;Unit weight for scales
+Unknow worker;Unknow worker
+Unlink with all associated products;Unlink with all associated products
+Unnamed client;Unnamed client
+Unnamed worker;Unnamed worker
+Unsuported destination;Unsuported destination
+Unsuported origin;Unsuported origin
+Unsupported image;Unsupported image
+Until;Until
+Until date;Until date
+Updating database. This maybe take several seconds, please wait.;Updating database. This maybe take several seconds, please wait.
+Updating to version;Updating to version
+Upload backups;Upload backups
+Upload Database and logs;Upload Database and logs
+Use slip printer (only for mixed printers);Use slip printer (only for mixed printers)
+Used at;Used at
+User;User
+User cancelled the synchronization process;User cancelled the synchronization process
+Videogame;Videogame
+VIP table;VIP table
+Visible;Visible
+Visual group;Visual group
+Visual group name;Visual group name
+Volume measure unit;Volume measure unit
+Length measure unit;Length measure unit
+Waiting;Waiting
+Waiting for payment;Waiting for payment
+Waiting user;Waiting user
+Want to add a bulk product without quantity?;Want to add a bulk product without quantity?
+Warehouse;Warehouse
+Warehouse destination;Warehouse destination
+Warehouse origin;Warehouse origin
+Warehouse to warehouse movement;Warehouse to warehouse movement
+Warehouses;Warehouses
+Warning;Warning
+Web;Web
+What do you want to do with the products inside this category?;What do you want to do with the products inside this category?
+When the service starts, the kitchen speeds up. Knowing how to manage that moment connecting the hall and the kitchen is the key to the smooth running of the hall. The CHEF application is made for them: The genius of the kitchen and the expeditor masters.;When the service starts, the kitchen speeds up. Knowing how to manage that moment connecting the hall and the kitchen is the key to the smooth running of the hall. The CHEF application is made for them: The genius of the kitchen and the expeditor masters.
+Will proceed to delete this menu category;Will proceed to delete this menu category
+Will proceed to empty this menu category;Will proceed to empty this menu category
+with;with
+WITHDRAW & NEXT CASHDESK FLOAT;WITHDRAW & NEXT CASHDESK FLOAT
+Wood;Wood
+Worker Interrupt (On worker change, open the last pending ticket);Worker Interrupt (On worker change, open the last pending ticket)
+Worker options;Worker options
+Worker orders;Worker orders
+Workers check in are required;Workers check in are required
+Wrong date;Wrong date
+Wrong ip address and port;Wrong ip address and port
+Wrong ip address;Wrong ip address
+The correct format is 0.0.0.0:PORT;The correct format is 0.0.0.0:PORT
+The correct format is 0.0.0.0;The correct format is 0.0.0.0
+Wrong name;Wrong name
+Wrong pin code;Wrong pin code
+Wrong value;Wrong value
+YES;YES
+You are trying to delete a modifier that is in an active ticket. Close the ticket first;You are trying to delete a modifier that is in an active ticket. Close the ticket first
+You can not operate with payed orders;You can not operate with payed orders
+You can not operate with payed tickets;You can not operate with payed tickets
+You can not withdraw more money than is in the cash desk;You can not withdraw more money than is in the cash desk
+You can't add more debt than ticket pending amount;You can't add more debt than ticket pending amount
+You can't add more than 1000 units;You can't add more than 1000 units
+You can't add products to manual order;You can't add products to manual order
+You can't make a partially payed ticket complimentary;You can't make a partially payed ticket complimentary
+You can't make an invoice from a nullified ticket;You can't make an invoice from a nullified ticket
+You can't make an invoice from a rectified ticket;You can't make an invoice from a rectified ticket
+You can't make an invoice from another invoice;You can't make an invoice from another invoice
+You can't make an invoice with price equal to zero;You can't make an invoice with price equal to zero
+Pay and close the document before making the invoice;Pay and close the document before making the invoice
+You can't do complimentary without selecting lines;You can't do complimentary without selecting lines
+You can't move;You can't move
+You can't move anything to this ticket because it's already closed (and archived);You can't move anything to this ticket because it's already closed (and archived)
+You can't operate with cash lines made ​​in a different currency to the local currency;You can't operate with cash lines made ​​in a different currency to the local currency
+You can't operate with this line;You can't operate with this line
+You can't pay more than ticket pending amount;You can't pay more than ticket pending amount
+You can't withdraw more money than the money you have in pay method %@;You can't withdraw more money than the money you have in pay method %@
+You don't have more licenses for Chef Apps, contact with Dual-Link for more info;You don't have more licenses for Chef Apps, contact with Dual-Link for more info
+You don't have more licenses for POS Terminal Apps, contact with Dual-Link for more info;You don't have more licenses for POS Terminal Apps, contact with Dual-Link for more info
+You don't have more licenses for Waiter Apps, contact with Dual-Link for more info;You don't have more licenses for Waiter Apps, contact with Dual-Link for more info
+You don't have permission to access this section;You don't have permission to access this section
+You don't have subproducts;You don't have subproducts
+You don't have the necessary permission;You don't have the necessary permission
+You dont have enough money for complete the payment;You dont have enough money for complete the payment
+You dont have enough money in this account for complete the payment;You dont have enough money in this account for complete the payment
+You dont have enough VIP points for complete the payment;You dont have enough VIP points for complete the payment
+You entered a wrong password;You entered a wrong password
+You have some tickets linked with this client;You have some tickets linked with this client
+You must select a complimentary responsible;You must select a complimentary responsible
+You need CashDesk permission for access to print any report;You need CashDesk permission for access to print any report
+You need CashDesk permission for access to reports;You need CashDesk permission for access to reports
+You need enter a category tax to save it. If you don't want to create any new category, press cancel;You need enter a category tax to save it. If you don't want to create any new category, press cancel
+You need enter a modifier name to save it;You need enter a modifier name to save it
+"You need to add some product format and some of them configured with ""Default"" option";"You need to add some product format and some of them configured with ""Default"" option"
+You need to enter a payment method;You need to enter a payment method
+You need to enter the name. If you don't want to create any new worker press the cancel option;You need to enter the name. If you don't want to create any new worker press the cancel option
+You need to pay the outstanding amount;You need to pay the outstanding amount
+You need to put the money back to the device.;You need to put the money back to the device.
+You will be unable to access to your place in the Boss Manager web page.;You will be unable to access to your place in the Boss Manager web page.
+Your device is not ready to send mails at this time;Your device is not ready to send mails at this time
+Zone name;Zone name
+Zones: %@;Zones: %@
+Are you going to withdraw money from the cashbox?;¿Vas a retirar el dinero de los cajones?
+Fixed cost price;Fixed cost price
+COMPANY;COMPANY
+Company legal information. Opening and closing times.;Company legal information. Opening and closing times.
+CASHDESK & INVOICING;CASHDESK & INVOICING
+Number series. Taxes. Tips. Paymethods. Payment platforms. Currencies. Subcashdesks;Number series. Taxes. Tips. Paymethods. Payment platforms. Currencies. Subcashdesks
+WORK AREAS;WORK AREAS
+Bar, tables and online work areas settings and interface. Application enabled sections.;Orders, tables and online work areas settings and interface. Application enabled sections.
+PAYMENT AREA;PAYMENT AREA
+Payment area settings. Complimentaries & Returns. Fixed discounts;Payment area settings. Complimentaries & Returns. Fixed discounts
+PRINTING;PRINTING
+General printing options.;General printing options.
+STOCK;STOCK
+Stock settings. Consumption profile. Warehouse options.;Stock settings. Consumption profile. Warehouse options.
+Login and workers settings.;Login and workers settings.
+OFFERS & LOYALTY;OFFERS & LOYALTY
+Offers. Promotional codes. Loyalty rewards.;Offers. Promotional codes. Loyalty rewards.
+EXTERNAL SERVICES;EXTERNAL SERVICES
+Configure external services. Wahoy. Bytefactory. Wineadvisor;Configure external services. Wahoy. Bytefactory. Wineadvisor
+NETWORK;NETWORK
+Network settings.;Network settings.
+KITCHEN;KITCHEN
+Sources. Kitchen integration settings. Kitchen order. Summaries.;Sources. Kitchen integration settings. Kitchen order. Summaries.
+BOOKINGS;BOOKINGS
+Bookings timetable. Minimum fee.;Bookings timetable. Minimum fee.
+Order and pre-ticket prefix;Order and pre-ticket prefix
+Next pre-ticket number;Next pre-ticket number
+Next order number;Next order number
+Ticket serie;Ticket serie
+Nullify ticket serie;Nullify ticket serie
+Invoice serie;Invoice serie
+Nullify invoice serie;Nullify invoice serie
+Complimentary serie;Complimentary serie
+Nullify complimentary serie;Nullify complimentary serie
+Manage number series;Manage number series
+Pay Methods;Pay Methods
+Blind CashDesk: Shows report when close cash desk;Blind CashDesk: Shows report when close cash desk
+General settings;General settings
+Boss manager real time update;Boss manager real time update
+Always show order number on printed tickets;Always show order number on printed tickets
+Hide order name on payment tickets;Hide order name on payment tickets
+Product prices include tax;Product prices include tax
+Changing this option doesn't change the prices in the database, please check final prices in the Products section;Changing this option doesn't change the prices in the database, please check final prices in the Products section
+Upload logs to server;Upload logs to server
+This option is required for the Boss Manager reports about table and item transfers.;This option is required for the Boss Manager reports about table and item transfers.
+Enable POSServiceServer log;Enable POSServiceServer log
+This option consumes too much disk space on the iPad, please use this option only for little periods of time, then you must disable it manually;This option consumes too much disk space on the iPad, please use this option only for little periods of time, then you must disable it manually
+NUMBER SERIES & PAYMETHODS;NUMBER SERIES & PAYMETHODS
+CASH DESK OPTIONS;CASH DESK OPTIONS
+CASH DESK REPORT OPTIONS;CASH DESK REPORT OPTIONS
+TIPS;TIPS
+No number serie;No number serie
+Accounts (Clients);Accounts (Clients)
+Accounts (Workers);Accounts (Workers)
+Accounts (Anonymous);Accounts (Anonymous)
+Online (Delivery);Online (Delivery)
+Online (TakeAway);Online (TakeAway)
+Online (In Place);Online (In Place)
+Enable bookings;Enable bookings
+Default time for a booking;Default time for a booking
+Manage booking zones;Manage booking zones
+Manage booking zone modifiers;Manage booking zone modifiers
+Manage channels and prescriptors;Manage channels and prescriptors
+Minimum Fee product;Minimum Fee product
+Open hour;Open hour
+Select hour;Select hour
+Close hour;Close hour
+Use time ranges in bookings;Use time ranges in bookings
+Bookings preset configurations;Bookings preset configurations
+Bookings closed days;Bookings closed days
+Take away closed days;Take away closed days
+Delivery closed days;Delivery closed days
+Finish booking on order closing;Finish booking on order closing
+Disable booking selection for bookings with SHOW status;Disable booking selection for bookings with SHOW status
+Disable open multiple tables when opening from booking;Disable open multiple tables when opening from booking
+Show icon in table map for bookings with SHOW status;Show icon in table map for bookings with SHOW status
+Number of seconds between table map updates (0 = disabled);Number of seconds between table map updates (0 = disabled)
+Continuously warn user until the order booking is linked;Continuously warn user until the order booking is linked
+Show icon in table map for Locations with any booking;Show icon in table map for Locations with any booking
+Default status for a new booking;Default status for a new booking
+Planning;Planning
+BOARD OPTIONS;BOARD OPTIONS
+Include breakfast;Include breakfast
+Half board;Half board
+Full board;Full board
+KITCHEN SUMMARY TYPE;KITCHEN SUMMARY TYPE
+KITCHEN SUMMARY OPTIONS;KITCHEN SUMMARY OPTIONS
+KITCHEN REPORT NAMES;KITCHEN REPORT NAMES
+KITCHEN ORDER MODE;KITCHEN ORDER MODE
+Autosend lines to kitchen on payment;Autosend lines to kitchen on payment
+Name for ORDER IN ticket;Name for ORDER IN ticket
+Name for CLAIMED ticket;Name for CLAIMED ticket
+Name for DELETION ticket;Name for DELETION ticket
+Name for ACCUMULATIVE summary;Name for ACCUMULATIVE summary
+Name for FIRST summary;Name for FIRST summary
+Name for INFO summary;Name for INFO summary
+When you exit the order, ask to send summary;When you exit the order, ask to send summary
+Only print summary when ordering product sources configured in the summary;Only print summary when ordering product sources configured in the summary
+Filter accumulative summary by time (minutes);Filter accumulative summary by time (minutes)
+Filter already sent lines in summaries;Filter already sent lines in summaries
+Print full summary on any change;Print full summary on any change
+Kitchen order mode;Kitchen order mode
+Prefix for manual comments;Prefix for manual comments
+Show error when you are connected to a wrong network;Show error when you are connected to a wrong network
+Master (iPad) network name;Master (iPad) network name
+Slaves (iPods and slave ipads) network name;Slaves (iPods and slave ipads) network name
+Local synchronization;Local synchronization
+Multicast (recommended);Multicast (recommended)
+Broadcast;Broadcast
+Unicast;Unicast
+Multicast group;Multicast group
+UDP option;UDP option
+Product default warehouse;Product default warehouse
+Default consumption warehouse;Default consumption warehouse
+Add internal barcode (barcode2) when add a new product;Add internal barcode (barcode2) when add a new product
+Last auto barcode number;Last auto barcode number
+Consumption profiles;Consumption profiles
+Default consumption profile;Default consumption profile
+None;None
+Always recover stock on ticket nullify;Always recover stock on ticket nullify
+Auto complete note lines with average price;Auto complete note lines with average price
+NEW PRODUCTS;NEW PRODUCTS
+CONSUMPTIONS;CONSUMPTIONS
+NOTES;NOTES
+Inventories enabled;Inventories enabled
+Inventory templates;Inventory templates
+Stock categories;Stock categories
+Enable payment (Finish) button;Enable payment (Finish) button
+Disable cash tips in payment screen (Change to tip option);Disable cash tips in payment screen (Change to tip option)
+Always list paymethods;Always list paymethods
+Quick payment enabled on ORDERS area;Quick payment enabled on ORDERS area
+Quick payment enabled in all areas;Quick payment enabled in all areas
+Complimentary responsibles;Complimentary responsibles
+Complimentary require server authorization;Complimentary require server authorization
+Complimentary concepts;Complimentary concepts
+Return concepts;Return concepts
+Fixed discounts;Fixed discounts
+Print ticket when do a debt or complimentary;Print ticket when do a debt or complimentary
+Print Client / Card report when close ticket (if needed);Print Client / Card report when close ticket (if needed)
+Show loyalty total money in ticket;Show loyalty total money in ticket
+Print delete confirmations;Print delete confirmations
+Print linked legal entity on ticket;Print linked legal entity on ticket
+Discount booking deposit from ticket totals;Discount booking deposit from ticket totals
+COMPLIMENTARIES;COMPLIMENTARIES
+RETURNS;RETURNS
+DISCOUNTS;DISCOUNTS
+PRINTING OPTIONS;PRINTING OPTIONS
+Cancel;Cancel
+Don't print;Don't print
+Only Clients;Only Clients
+Only Workers;Only Workers
+Clients & Workers;Clients & Workers
+Close payment screen automatically when add debt to ticket;Close payment screen automatically when add debt to ticket
+Hide payed tickets if there are more tickets in the same order;Hide payed tickets if there are more tickets in the same order
+Enable payment pending transactions screen;Enable payment pending transactions screen
+Logout worker automatically after a while;Logout worker automatically after a while
+Seconds to wait before logout automatically worker;Seconds to wait before logout automatically worker
+Logout worker automatically after payment;Logout worker automatically after payment
+Enable pub login;Enable pub login
+On worker change, open the last pending ticket;On worker change, open the last pending ticket
+Show ticket benefits percentage to worker;Show ticket benefits percentage to worker
+LOGIN;LOGIN
+WORKER OPTIONS;WORKER OPTIONS
+Disable access to workers screen (only check in / out mode);Disable access to workers screen (only check in / out mode)
+GENERAL;GENERAL
+CASH DESK;CASH DESK
+PAYMENTS;PAYMENTS
+KTCHEN;KTCHEN
+Hide taxable base from ticket totals;Hide taxable base from ticket totals
+Interface;Interface
+Reset formats when add a product (Need to restart the app);Reset formats when add a product (Need to restart the app)
+APP SECTIONS;APP SECTIONS
+INTERFACE;INTERFACE
+TABLES SECTION & MAP AREA;TABLES SECTION & MAP AREA
+ONLINE AREA;ONLINE AREA
+TABLES SECTION PRINT SETTINGS;TABLES SECTION PRINT SETTINGS
+Online platforms;Online platforms
+This month;This month
+Platform name;Platform name
+Automatically add to debt;Automatically add to debt
+Use different number series;Use different number series
+Ticket serie;Ticket serie
+Nullify ticket serie;Nullify ticket serie
+Invoice serie;Invoice serie
+Nullify invoice serie;Nullify invoice serie
+Default fee percentage;Default fee percentage
+Fee of base price;Fee of base price
+New route;New route
+Delete route;Delete route
+You will delete the route and its postal codes;You will delete the route and its postal codes
+Route detail;Route detail
+Route name;Route name
+Delivery fee;Delivery fee
+Delivery fee is less than;Delivery fee is less than
+Minimum delivery amount;Minimum delivery amount
+Minimum free delivery amount;Minimum free delivery amount
+Postal codes;Postal codes
+Add new postal code;Add new postal code
+Introduce code or codes separated by ,;Introduce code or codes separated by ,
+From postal code;From postal code
+To postal code;To postal code
+Recover Stock;Recover Stock
+Don't Recover Stock;Don't Recover Stock
+Invalid name;Invalid name
+The name is required;The name is required
+This name is already used;This name is already used
+This prefix is already used;This prefix is already used
+This prefix is already used as pre ticket prefix;This prefix is already used as pre ticket prefix
+New discount;New discount
+Discount %;Discount %
+New complimentary responsible;New complimentary responsible
+Complimentary value;Complimentary value
+Product not found;Product not found
+Already processed note;Already processed note
+Stock order;Stock order
+Select stock order;Select stock order
+Not processed;Not processed
+Reception pending;Reception pending
+Finished;Finished
+Send order;Send order
+Process order and send it to warehouse destinations;Process order and send it to warehouse destinations
+Receive order;Receive order
+Finish order and receive stock;Finish order and receive stock
+Output orders;Output orders
+Input orders;Input orders
+New order;New order
+Select order type;Select order type
+Internal;Internal
+External;External
+New internal order;New internal order
+Origin;Origin
+Select warehouse;Select warehouse
+New external order;New external order
+Send;Send
+No supplier;No supplier
+Input;Input
+Supplier input;Supplier input
+Output;Output
+Change date at my own risk;Change date at my own risk
+Name, legal document, postal code and country code are required.;Name, legal document, postal code and country code are required.
+Remove Ticket;Remove Ticket
+Link wristband;Link wristband
+Simplified invoice;Simplified invoice
+Served by: ;Served by: 
+%@ on 1 %@;%@ on 1 %@
+Taxable base:;Taxable base:
+Amount per cover;Amount per cover
+Qty;Qty
+Transaction;Transaction
+Attended by: ;Attended by: 
+%@ on %i products;%@ on %i products
+Last payment;Last payment
+Handed;Handed
+Change;Change
+Already payed:;Already payed:
+DEMO VERSION;DEMO VERSION
+Previous invoice;Previous invoice
+Previous Invoice;Previous Invoice
+Archived simplified invoice;Archived simplified invoice
+Copy;Copy
+Complimentary;Complimentary
+Amount;Amount
+Paid;Paid
+Park ticket;Park ticket
+Park tickets;Park tickets
+Park to;Park to
+Parked Ticket Nullify;Parked Ticket Nullify
+Parked Ticket Payment;Parked Ticket Payment
+Parked tickets;Parked tickets
+Order;Order
+Discount;Discount
+Discounts;Discounts
+Cash;Cash
+Subtotal;Subtotal
+Tip;Tip
+TOTAL;TOTAL
+Number of covers;Number of covers
+Take away;Take away
+Delivery;Delivery
+Info. Previous document.;Info. Previous document.
+Product;Product
+Price;Price
+Pay method;Pay method
+Sign;Sign
+Standard;Standard
+Rate;Rate
+PRE-TICKET;PRE-TICKET
+Booking deposit;Booking deposit
+Room;Room
+Inv;Inv
+PENDING;PENDING
+Original Ticket;Original Ticket
+Automatic insertion;Automatic insertion
+Modify menu price;Modify menu price
+Format;Format
+Count for menu number limit;Count for menu number limit
+Worker consumption;Worker consumption
+Open one order per table on creating multiple table orders;Open one order per table on creating multiple table orders
+Automatically create new order (Bar area);Automatically create new order (Bar area)
+Always ask for order name (Bar area);Always ask for order name (Bar area)
+Always ask for order name (Tables area);Always ask for order name (Tables area)
+Always ask for order name (Tabs area);Always ask for order name (Tabs area)
+Default number of covers;Default number of covers
+Don't show bulk screen automatically;Don't show bulk screen automatically
+Hide detailed modifiers screen when reach the modifier limit in one modifier category (Linked with product category);Hide detailed modifiers screen when reach the modifier limit in one modifier category (Linked with product category)
+Can't print or pay tickets containing bulk products with quantity equal to zero;Can't print or pay tickets containing bulk products with quantity equal to zero
+Please set some quantity on this products;Please set some quantity on this products
+Can't modify;Can't modify
+Can't move;Can't move
+Please update this app to the last version.;Please update this app to the last version.
+Please update your POS app to the last version.;Please update your POS app to the last version.
+No elaborated;No elaborated
+Elaborated at the time of sale;Elaborated at the time of sale
+Elaborated before the sale;Elaborated before the sale
+No block;No block
+Block by components stock;Block by components stock
+Block by product stock;Block by product stock
+Current stock;Current stock
+Seats enabled (When add a product to ticket, you can specify the seat number);Seats enabled (When add a product to ticket, you can specify the seat number)
+Organize the ticket considering seats;Organize the ticket considering seats
+Organize the payment ticket considering seats;Organize the payment ticket considering seats
+Start at first cover (Default : All covers);Start at first cover (Default : All covers)
+The seats are locations (Multiple location order);The seats are locations (Multiple location order)
+Product source;Product source
+Same of the product;Same of the product
+Total consumption;Total consumption
+Ellaboration center;Ellaboration center
+Ellaboration centers;Ellaboration centers
+Default ellaboration center;Default ellaboration center
+Barcode type;Barcode type
+Front orders warehouse;Front orders warehouse
+Hide sent stock orders;Hide sent stock orders
+Advance payment;Advance payment
+Please mark all the options;Please mark all the options
+Please mark all the options;Please mark all the options
+I understand and accept the privacy policy and the treatment of my personal data with the aforementioned purposes.;I understand and accept the privacy policy and the treatment of my personal data with the aforementioned purposes.
+I understand and agree to receive information related to the Dual Link activity / products / services offered by the entity.;I understand and agree to receive information related to the Dual Link activity / products / services offered by the entity.
+I understand and agree to give my data to sponsored developers.;I understand and agree to give my data to sponsored developers.
+Maintenance is needed, %i bills remaining;Maintenance is needed, %i bills remaining
+Remind me later;Remind me later
+Reset counter;Reset counter
+Maintenance counters reseted;Maintenance counters reseted
+Out all the money;Vaciado
+Set coins quantity to zero;Set coins quantity to zero
+License never synced;License never synced
+No Place;No Place
+License not active;License not active
+License not checked;License not checked
+ORDER BY SEAT NUMBER;ORDER BY SEAT NUMBER
+Stored cards;Stored cards
+Total client account;Total client account
+No booking;No booking
+Move some products to other table;Move some products to other table
+Move order to other table;Move order to other table
+Move to ORDERS;Move to ORDERS
+Move to other POS;Move to other POS
+Expand order to other tables;Expand order to other tables
+Send message;Send message
+Print ticket snapshots;Print ticket snapshots
+Force reload;Force reload
+Remove order;Remove order
+Bookings is not supported on iOS versions prior to 10.0;Bookings is not supported on iOS versions prior to 10.0
+This order contains a partially payed ticket.;This order contains a partially payed ticket.
+If the order have a name, it's added to the name of the location until the order is closed. E.g. 8 (Steve);If the order have a name, it's added to the name of the location until the order is closed. E.g. 8 (Steve)
+This option can only be changed from main POS;This option can only be changed from main POS
+Client not found;Client not found
+Rectify tip;Rectify tip
+Add tip;Add tip
+Total quantity with tip included;Total quantity with tip included
+Wrong modification;Wrong modification
+The introduced quantity needs to be higher than the money of the cashdesk line;The introduced quantity needs to be higher than the money of the cashdesk line
+Ticket is partially payed;Ticket is partially payed
+Tables and Waiter app;Tables and Waiter app
+Complimentaries and discounts;Complimentaries and discounts
+Presets;Presets
+Charge;Charge
+Move products and tickets;Move products and tickets
+Print bill;Print bill
+Blind Cashdesk;Blind Cashdesk
+Only open and close Cashdesk;Only open and close Cashdesk
+Modify documents;Modify documents
+Internal stock orders;Internal stock orders
+Internal stock return orders;Internal stock return orders
+Stock movements;Stock movements
+Managers dashboard;Managers dashboard
+Products and table map;Products and table map
+Clients;Clients
+History & Reports;History & Reports
+Settings;Settings
+Boss Manager deletions;Boss Manager deletions
+The worker can be selected in tables area and the Waiter app.;The worker can be selected in tables area and the Waiter app.
+The worker can be selected in the bar area.;The worker can be selected in the bar area.
+The worker can be selected in the online orders area.;The worker can be selected in the online orders area.
+The worker can delete orders and individual lines from a ticket.;The worker can delete orders and individual lines from a ticket.
+The worker can make discounts and complimentaries from the payment screen.;The worker can make discounts and complimentaries from the payment screen.
+The worker can apply and modify rates;The worker can apply and modify rates
+The worker can add loyalty points or money to a client from the payment screen.;The worker can add loyalty points or money to a client from the payment screen.
+The worker can add debts to a client from the payment screen.;The worker can add debts to a client from the payment screen.
+The worker can change the active preset.;The worker can change the active preset.
+The worker can operate with bookings;The worker can operate with bookings
+The worker can charge a ticket.;The worker can charge a ticket.
+The worker can move products between different tickets. Also used for moving complete tickets and orders between tables and work areas.;The worker can move products between different tickets. Also used for moving complete tickets and orders between tables and work areas.
+The worker can print the bill.;The worker can print the bill.
+The worker can access to the Cashdesk area and perform Cashdesk operations like open or close the session.;The worker can access to the Cashdesk area and perform Cashdesk operations like open or close the session.
+This permission hides the displayed money quantities in the Cashdesk area.;This permission hides the displayed money quantities in the Cashdesk area.
+This permission only allows the user to open and close the Cashdesk, also totals are hidden.;This permission only allows the user to open and close the Cashdesk, also totals are hidden.
+This permission allows the user to do ticket or invoice cancellations.;This permission allows the user to do ticket or invoice cancellations.
+The worker can access to do internal stock orders.;The worker can access to do internal stock orders.
+The worker can access to do internal stock return orders.;The worker can access to do internal stock return orders.
+The worker can access to do movements between warehouses.;The worker can access to do movements between warehouses.
+The worker can access to do warehouse inventories.;The worker can access to do warehouse inventories.
+Quick access to manage rates, presets and open orders statistics;Quick access to manage rates, presets and open orders statistics
+The worker can access to the manage Products, menus, modifiers, categories, rates ...;The worker can access to the manage Products, menus, modifiers, categories, rates ...
+The worker can access to the Clients area.;The worker can access to the Clients area.
+The worker can access to the Workers area.;The worker can access to the Workers area.
+The worker can access to the History and Reports areas.;The worker can access to the History and Reports areas.
+The worker can access to the Stock area and perform stock operations.;The worker can access to the Stock area and perform stock operations.
+The worker can access to manage currencies, Boss Manager settings, devices ...;The worker can access to manage currencies, Boss Manager settings, devices ...
+The worker is linked to a Boss Manager user. You can manage this option or delete this workers from Boss Manager.;The worker is linked to a Boss Manager user. You can manage this option or delete this workers from Boss Manager.
+The worker can delete products when the deletion is blocked by boss manager settings.;The worker can delete products when the deletion is blocked by boss manager settings.
+Permissions for work areas;Permissions for work areas
+Notice all the deletions, complimentaries, dicounts, vip points and debts are logged in the cashdesk area along with the worker name and date and time information.;Notice all the deletions, complimentaries, dicounts, vip points and debts are logged in the cashdesk area along with the worker name and date and time information.
+PERMISSIONS FOR CASHDESK;PERMISSIONS FOR CASHDESK
+PERMISSIONS FOR STOCK FRONT ORDERS;PERMISSIONS FOR STOCK FRONT ORDERS
+PERMISSIONS FOR ADMINISTRATORS;PERMISSIONS FOR ADMINISTRATORS
+PERMISSIONS FOR BOSS MANAGER;PERMISSIONS FOR BOSS MANAGER
+In place;In place
+Price group;Price group
+New price group;New price group
+No price group;No price group
+Block manual login;Block manual login
+Accounts permission required to add and edit clients from the front;Accounts permission required to add and edit clients from the front
+Manage worker roles;Manage worker roles
+Manage worker departments;Manage worker departments
+ROLE & DEPARTMENT;ROLE & DEPARTMENT
+Loyalty point visualization multiplier;Loyalty point visualization multiplier
+Enable loyalty point visualization multiplier;Enable loyalty point visualization multiplier
+Enable loyalty points rewards when client spends money;Enable loyalty points rewards when client spends money
+Loyalty point reward;Loyalty point reward
+Payment actions;Payment actions
+Promotional code footer;Promotional code footer
+Promotional code;Promotional code
+Promotional codes;Promotional codes
+Rewards;Rewards
+Sales by product;Sales by product
+Hide 'Open drawer' button in the cashdesk login area;Hide 'Open drawer' button in the cashdesk login area
+Available presets;Available presets
+Unavailable presets;Unavailable presets
+Is required;Is required
+At least one modifier of this category needs to be selected;At least one modifier of this category needs to be selected
+Allow negatives;Allow negatives
+Allows to select a negative quantity on incremental modifiers;Allows to select a negative quantity on incremental modifiers
+Absorbent;Absorbent
+Automatically absorb products until the limit is reached. A limit is required.;Automatically absorb products until the limit is reached. A limit is required.
+Ignore modifier source;Ignore modifier source
+Only for modifiers linked to products or product category. If this option is enabled, when you order a product containing some of this modifiers, the modifiers will be printed in the same printer as the main product, ignoring the product source configured in the product linked to the modifier.;Only for modifiers linked to products or product category. If this option is enabled, when you order a product containing some of this modifiers, the modifiers will be printed in the same printer as the main product, ignoring the product source configured in the product linked to the modifier.
+Required;Required
+Please select the required modifiers;Please select the required modifiers
+Number of copies for cash desk extraordinary input/output prints;Number of copies for cash desk extraordinary input/output prints
+Show balance on cash desk float;Show balance on cash desk float
+Begin date;Begin date
+End date;End date
+Currency exchange rate;Currency exchange rate
+Please insert room or client name;Please insert room or client name
+Including %@ fixed tips;Including %@ fixed tips
+Including %@ %@;Including %@ %@
+Show currency selection on print ticket button tap;Show currency selection on print ticket button tap
+Linked devices;Linked devices
+Print Menu QR;Print Menu QR
+Delay for closing connection on TCP printers (in seconds);Delay for closing connection on TCP printers (in seconds)
+Nullify previous ticket when making a new invoice;Nullify previous ticket when making a new invoice
+Invoice required limit;Invoice required limit
+Auto compliment zero amount tickets;Auto compliment zero amount tickets
+Concept for Auto complimented tickets;Concept for Auto complimented tickets
+Other currencies;Other currencies
+Count Cash desk in manager;Count Cash desk in manager
+Open cash desk with server sessions;Open cash desk with server sessions
+Dont allow cash desk closing with opened orders;Dont allow cash desk closing with opened orders
+Number of copies for close cash desk report;Number of copies for close cash desk report
+Use currency images for cash;Use currency images for cash
+Print cash desk float balance report & cash count report;Print cash desk float balance report & cash count report
+Disable cash tips;Disable cash tips
+Apply tips over tax base;Apply tips over tax base
+Always ask for order name (Tables area);Always ask for order name (Tables area)
+Always ask for order name (Online in place area);Always ask for order name (Online in place area)
+Use time ranges;Use time ranges
+Time ranges;Time ranges
+Delivery preset configurations;Delivery preset configurations
+Delivery closed days;Delivery closed days
+Take-away preset configurations;Take-away preset configurations
+Take-away closed days;Take-away closed days
+Apply rate automatically when the system read a client card;Apply rate automatically when the system read a client card
+Can't do a partial payment lower than the ticket selection. You can do a partial payment without selected lines.;Can't do a partial payment lower than the ticket selection. You can do a partial payment without selected lines.
+Including all currencies;Including all currencies
+Debt payments (Tip);Debt payments (Tip)
+Enable warning sound when the system receives a new Online order;Enable warning sound when the system receives a new Online order
+Override preset group configuration (All areas);Override preset group configuration (All areas)
+Override preset group option need to be enabled;Override preset group option need to be enabled
+No preset groups available;No preset groups available
+Number of items;Number of items
+Quick open order when the system read a card;Quick open order when the system read a card
+Open card info automatically when linked client have a card;Open card info automatically when linked client have a card
+Total tip quantity;Total tip quantity
+Link a client with a card when the system reads it to an order, it’s not allowed in the accounts section;Link a client with a card when the system reads it to an order, it’s not allowed in the accounts section
+Group transactions by payment operation;Group transactions by payment operation
+Don’t group fixed tip transaction;Don’t group fixed tip transaction
+Show tip detail in grouped transaction;Show tip detail in grouped transaction
+Add automatically the first menu when the user go to menu detail screen;Add automatically the first menu when the user go to menu detail screen
+Times printed;Times printed
+At venue;At venue
+Invalid card;Invalid card
+This action cannot be undone;Esta accion no podrá deshacerse
+Apply client actions;Apply client actions
+The prefix needs to be numeric and maximum 3 digits;The prefix needs to be numeric and maximum 3 digits
+Not available;Not available
+Only available for ZPL Printers;Only available for ZPL Printers
+Sensor method;Sensor method
+Contact with Dual Link;Contact with Dual Link
+You are not the owner of the order;You are not the owner of the order
+You can't operate with this order;You can't operate with this order
+Only the waiter who has opened the table can operate with the order;Only the waiter who has opened the table can operate with the order
+Only the waiter who has opened the table can visualize the order;Only the waiter who has opened the table can visualize the order
+The system needs at least 1Gb of free space. Please contact with Dual-Link;The system needs at least 1Gb of free space. Please contact with Dual-Link
+Lot;Lot
+Sanitary registration;Sanitary registration
+Weight;Weight
+Print label;Print label
+Export data;Export data
+Quantity;Quantity
+Done;Done
+Cannot add selected product;Cannot add selected product
+Trying to add a product that is already at consumption chain;Trying to add a product that is already at consumption chain
+Enable hotel payment. Hotel options.;Enable hotel payment. Hotel options.
+General options. Include taxes, real time boss sync.;General options. Include taxes, real time boss sync.
+Online platforms. Manage delivery and take-away online platforms, fees, penalties, billing ...;Online platforms. Manage delivery and take-away online platforms, fees, penalties, billing ...
+This Work Area is disabled;This Work Area is disabled
+Add client;Add client
+Offers for client cards;Offers for client cards
+Offers for worker cards;Offers for worker cards
+Add worker;Add worker
+Offers for cards;Offers for cards
+Barcode not found;Barcode not found
+From number;From number
+To number;To number
+Range of tabs is needed;Range of tabs is needed
+Invalid range;Invalid range
+Delete all tabs;Delete all tabs
+Need to close all tab orders;Need to close all tab orders
+Last orders;Last orders
+Today's orders;Today's orders
+Next orders;Next orders
+Old orders;Old orders
+Filter by status;Filter by status
+No preset;Sin preset
+NO GROUP;NO GROUP
+Delivery options;Delivery options
+Take-away options;Take-away options
+Configuration only for current session;Configuration only for current session
+On the way & riders;On the way & riders
+Ready;Ready
+Secure payment cashdesk system enabled;Secure payment cashdesk system enabled
+IP Address & Port;IP Address & Port
+Levels;Levels
+Set minimun and maximum levels;Set minimun and maximum levels
+Connection;Connection
+Cashdro is used by multiple devices;Cashdro is used by multiple devices
+Dump mode on close cashdesk;Dump mode on close cashdesk
+Dump;Dump
+Base level;Base level
+Work level;Work level
+Preconfigured level;Preconfigured level
+Housekeeping;Housekeeping
+Can't get levels;Can't get levels
+Dump to...;Dump to...
+Empty inmediate recycle storage;Empty inmediate recycle storage
+General options;General options
+Kitchen order mode category tag (Options);Kitchen order mode category tag (Options)
+Override category tag kitchen order print option;Override category tag kitchen order print option
+Category tag kitchen order print option;Category tag kitchen order print option
+Group kitchen orders by source;Group kitchen orders by source
+Printer Settings;Printer Settings
+Not connected;Not connected
+Test reader;Test reader
+Nothing read;Nothing read
+iAP protocol;iAP protocol
+Connecting;Connecting
+Connected;Connected
+Disconnecting;Disconnecting
+Disconnected;Disconnected
+RFID reader;RFID reader
+Client cards;Client cards
+Worker cards;Worker cards
+Request Merchant Signature;Solicitar la firma del comerciante
+Online orders : Send to kitchen automatically;Online orders : Send to kitchen automatically
+Online orders : Time to send to kitchen automatically (minutes);Online orders : Time to send to kitchen automatically (minutes)
+Delivery routes;Delivery routes
+Return concept required;Return concept required
+Show discounts including taxes in payment tickets;Show discounts including taxes in payment tickets
+Enable discount cards;Enable discount cards
+Require concept on manual discounts;Require concept on manual discounts
+Discount concepts;Discount concepts
+Require concept on debts;Require concept on debts
+Block Print And Pay in tickets containing products with zero bulk quantity;Block Print And Pay in tickets containing products with zero bulk quantity
+Inventory note number series;Inventory note number series
+Custom input note number series;Custom input note number series
+Custom output note number series;Custom output note number series
+Movement note number series;Movement note number series
+Production number series;Production number series
+Internal control;Internal control
+ORDERS BETWEEN WAREHOUSES;ORDERS BETWEEN WAREHOUSES
+Internal order number series;Internal order number series
+Internal input note number series;Internal input note number series
+Internal output note number series;Internal output note number series
+PURCHASES AND SUPPLIER CONTROL;PURCHASES AND SUPPLIER CONTROL
+Low order number series;Low order number series
+Supplier order number series;Supplier order number series
+Supplier note number series;Supplier note number series
+Delivery order number series;Delivery order number series
+Delivery note number series;Delivery note number series
+FRONT ORDERS;FRONT ORDERS
+Country prefix (Maximum 3 numeric digits);Country prefix (Maximum 3 numeric digits)
+@DEFAULT WAREHOUSE@;@DEFAULT WAREHOUSE@
+Client actions;Client actions
+Manage client actions;Manage client actions
+Manage zones;Manage zones
+SELECT A ZONE TO VIEW AND EDIT ITS DETAIL;SELECT A ZONE TO VIEW AND EDIT ITS DETAIL
+Select modifier category;Select modifier category
+Zone option name;Zone option name
+Zone name;Zone name
+Zone option;Zone option
+Options;Options
+Modifiers;Modifiers
+Add zone option;Add zone option
+Manage modifier categories;Manage modifier categories
+SELECT ITEM TO VIEW AND EDIT ITS DETAILS;SELECT ITEM TO VIEW AND EDIT ITS DETAILS
+Intermediaries;Intermediaries
+Time range preset;Time range preset
+Tips name;Tips name
+Tips percentage;Tips percentage
+Last sync with manager;Last sync with manager
+QR CODES;QR CODES
+Permissions;Permissions
+Advanced;Advanced
+Limited;Limited
+CashDesk and advanced;CashDesk and advanced
+Money;Money
+Invite product with highest price;Invite product with highest price
+Invite product with lowest price;Invite product with lowest price
+Invite all products;Invite all products
+Free product;Free product
+Load account;Load account
+Payments Actions;Payments Actions
+Generate promotional code;Generate promotional code
+Payment action name;Payment action name
+Auto add free product if not present;Auto add free product if not present
+Out quantity;Out quantity
+Add products;Add products
+Remove all products;Remove all products
+Add ellaboration center;Add ellaboration center
+Manual discounts;Manual discounts
+Bar and Tabs;Bar and Tabs
+CategoryTag;CategoryTag
+Notify all;Notify all
+Notify current;Notify current
+Kitchen order mode category tag notify option;Kitchen order mode category tag notify option
+Kitchen order mode category tag;Kitchen order mode category tag
+Kitchen order mode product source;Kitchen order mode product source
+Business area;Business area
+No business area;No business area
+Channel name is required;Channel name is required
+Source name is required;Source name is required
+Develop;Develop
+Server info;Server info
+Process replace files;Process replace files
+Transaction in progress;Transaction in progress
+Print ticket;Print ticket
+Print copy;Print copy
+Abort;Abort
+Operation in progress;Operation in progress
+Payment entities;Payment entities
+Entities;Entities
+Filter;Filter
+Device Manager;Device Manager
+No selection;No selection
+SELECT A CLIENT TO VIEW AND EDIT ITS DETAILS;SELECT A CLIENT TO VIEW AND EDIT ITS DETAILS
+SELECT A WORKER TO VIEW AND EDIT ITS DETAIL;SELECT A WORKER TO VIEW AND EDIT ITS DETAIL
+Multiple tables order;Multiple tables order
+Finish deletion;Finish deletion
+View rules;View rules
+Edit rules;Edit rules
+Add rule;Add rule
+No business selected. Please login.;No business selected. Please login.
+Synchronizing...;Synchronizing...
+Apply to ...;Apply to ...
+Apply source to ...;Apply source to ...
+Apply ellaboration center to ...;Apply ellaboration center to ...
+Select option;Select option
+Select ellaboration center;Select ellaboration center
+Required modifiers;Required modifiers
+Remove old modifiers;Remove old modifiers
+Set price;Set price
+Set consumptions;Set consumptions
+Is default product format;Is default product format
+Required modifiers;Required modifiers
+Delete old modifiers;Delete old modifiers
+Only apply changes to the product that already have this format;Only apply changes to the product that already have this format
+Delete old formats;Delete old formats
+Required format for sale;Required format for sale
+Options (need to select a format);Options (need to select a format)
+Pack name;Pack name
+Pack price;Pack price
+Pack category data;Pack category data
+Pack category name;Pack category name
+Languages;Languages
+SELECT A PACK TO VIEW AND EDIT ITS DETAIL;SELECT A PACK TO VIEW AND EDIT ITS DETAIL
+Menu category name;Nombre del menú de categoría
+Menu category data;Datos del menú de categoría
+Only with debts;Only with debts
+Only with money in Economic Account;Only with money in Economic Account
+Only with money in Loyalty Account;Only with money in Loyalty Account
+Only with parked tickets;Only with parked tickets
+Print client debts;Print client debts
+Print client pendign debts;Print client pendign debts
+Print client report;Print client report
+Only available;Only available
+Only not available;Only not available
+Only without PIN code;Only without PIN code
+Only without password;Only without password
+Delete all rates;Delete all rates
+Delete all discounts;Delete all discounts
+Set discount;Set discount
+Apply to all;Apply to all
+Department;Department
+Permissions;Permisos
+Role;Role
+Password & pin code;Password & pin code
+Worker zip code;Worker zip code
+Worker mobile;Worker mobile
+Worker phone;Worker phone
+Worker city;Worker city
+Worker state;Worker state
+Worker address;Worker address
+Woker mail;Woker mail
+Worker name;Worker name
+Worker document;Worker document
+Password (Administation);Contraseña (Administración)
+SubCashDesk;SubCashDesk
+Select Rol;Select Rol
+None;None
+Register;Register
+Email;Email
+Phone number;Phone number
+Surname;Surname
+Address;Address
+Zip code;Zip code
+City;City
+State;State
+Country;Country
+Insert email;Insert your email
+Insert password;Insert your password
+Insert name;Insert your name
+Insert surname;Insert your surname
+Insert phone number;Insert your phone number
+Insert address;Insert your address
+Insert zip code;Insert your zip code
+Insert yity;Insert your city
+Insert state;Insert your state
+Insert country;Insert your country
+Insert ID;Insert your ID
+Recovery account;Recovery account
+The Email address is invalid;The Email address is invalid
+The Password is needed;The Password is needed
+The Name is needed;The Name is needed
+Registration succesful;Registration succesful
+Access to your email and click the activation link to complete the registration proccess.;Access to your email and click the activation link to complete the registration proccess.
+Recover;Recover
+An email for resetting the password will be sent to the following address;An email for resetting the password will be sent to the following address
+Reset password;Reset password
+If you have problems, please, contact with your distributor.;If you have problems, please, contact with your distributor.

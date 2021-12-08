@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		1451CA352761311C009059C0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1451CA342761311C009059C0 /* main.swift */; };
+		1451CA3E2761315C009059C0 /* CSVFileHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1451CA3D2761315C009059C0 /* CSVFileHelper.swift */; };
+		1451CA402761315F009059C0 /* StringFileHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1451CA3F2761315F009059C0 /* StringFileHelper.swift */; };
+		1451CA5F27613608009059C0 /* Test-Localizable.csv in Resources */ = {isa = PBXBuildFile; fileRef = 1451CA55276135D8009059C0 /* Test-Localizable.csv */; };
+		1451CA602761360B009059C0 /* Localizable in Resources */ = {isa = PBXBuildFile; fileRef = 1451CA56276135DB009059C0 /* Localizable */; };
+		1451CA612761360D009059C0 /* File.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1451CA54276135D2009059C0 /* File.strings */; };
+		1451CA6227613620009059C0 /* CSVFiles.bundle in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1451CA5B276135FE009059C0 /* CSVFiles.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -17,6 +23,7 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
+				1451CA6227613620009059C0 /* CSVFiles.bundle in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
@@ -25,10 +32,31 @@
 /* Begin PBXFileReference section */
 		1451CA312761311C009059C0 /* CSVToStringFileConverter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CSVToStringFileConverter; sourceTree = BUILT_PRODUCTS_DIR; };
 		1451CA342761311C009059C0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		1451CA3D2761315C009059C0 /* CSVFileHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSVFileHelper.swift; sourceTree = "<group>"; };
+		1451CA3F2761315F009059C0 /* StringFileHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringFileHelper.swift; sourceTree = "<group>"; };
+		1451CA4B2761340F009059C0 /* LocalizableStringsFiles.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocalizableStringsFiles.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		1451CA54276135D2009059C0 /* File.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = File.strings; sourceTree = "<group>"; };
+		1451CA55276135D8009059C0 /* Test-Localizable.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Test-Localizable.csv"; sourceTree = "<group>"; };
+		1451CA56276135DB009059C0 /* Localizable */ = {isa = PBXFileReference; lastKnownFileType = text; path = Localizable; sourceTree = "<group>"; };
+		1451CA5B276135FE009059C0 /* CSVFiles.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CSVFiles.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		1451CA2E2761311C009059C0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1451CA482761340F009059C0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1451CA58276135FE009059C0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -50,6 +78,8 @@
 			isa = PBXGroup;
 			children = (
 				1451CA312761311C009059C0 /* CSVToStringFileConverter */,
+				1451CA4B2761340F009059C0 /* LocalizableStringsFiles.bundle */,
+				1451CA5B276135FE009059C0 /* CSVFiles.bundle */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -58,6 +88,11 @@
 			isa = PBXGroup;
 			children = (
 				1451CA342761311C009059C0 /* main.swift */,
+				1451CA3D2761315C009059C0 /* CSVFileHelper.swift */,
+				1451CA3F2761315F009059C0 /* StringFileHelper.swift */,
+				1451CA54276135D2009059C0 /* File.strings */,
+				1451CA55276135D8009059C0 /* Test-Localizable.csv */,
+				1451CA56276135DB009059C0 /* Localizable */,
 			);
 			path = CSVToStringFileConverter;
 			sourceTree = "<group>";
@@ -82,6 +117,40 @@
 			productReference = 1451CA312761311C009059C0 /* CSVToStringFileConverter */;
 			productType = "com.apple.product-type.tool";
 		};
+		1451CA4A2761340F009059C0 /* LocalizableStringsFiles */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1451CA4C2761340F009059C0 /* Build configuration list for PBXNativeTarget "LocalizableStringsFiles" */;
+			buildPhases = (
+				1451CA472761340F009059C0 /* Sources */,
+				1451CA482761340F009059C0 /* Frameworks */,
+				1451CA492761340F009059C0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LocalizableStringsFiles;
+			productName = LocalizableStringsFiles;
+			productReference = 1451CA4B2761340F009059C0 /* LocalizableStringsFiles.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
+		1451CA5A276135FE009059C0 /* CSVFiles */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1451CA5C276135FE009059C0 /* Build configuration list for PBXNativeTarget "CSVFiles" */;
+			buildPhases = (
+				1451CA57276135FE009059C0 /* Sources */,
+				1451CA58276135FE009059C0 /* Frameworks */,
+				1451CA59276135FE009059C0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CSVFiles;
+			productName = CSVFiles;
+			productReference = 1451CA5B276135FE009059C0 /* CSVFiles.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -93,6 +162,12 @@
 				LastUpgradeCheck = 1310;
 				TargetAttributes = {
 					1451CA302761311C009059C0 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					1451CA4A2761340F009059C0 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					1451CA5A276135FE009059C0 = {
 						CreatedOnToolsVersion = 13.1;
 					};
 				};
@@ -111,16 +186,54 @@
 			projectRoot = "";
 			targets = (
 				1451CA302761311C009059C0 /* CSVToStringFileConverter */,
+				1451CA4A2761340F009059C0 /* LocalizableStringsFiles */,
+				1451CA5A276135FE009059C0 /* CSVFiles */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1451CA492761340F009059C0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1451CA612761360D009059C0 /* File.strings in Resources */,
+				1451CA602761360B009059C0 /* Localizable in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1451CA59276135FE009059C0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1451CA5F27613608009059C0 /* Test-Localizable.csv in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		1451CA2D2761311C009059C0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1451CA402761315F009059C0 /* StringFileHelper.swift in Sources */,
+				1451CA3E2761315C009059C0 /* CSVFileHelper.swift in Sources */,
 				1451CA352761311C009059C0 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1451CA472761340F009059C0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1451CA57276135FE009059C0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +377,86 @@
 			};
 			name = Release;
 		};
+		1451CA4D2761340F009059C0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LW9DHQ8252;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSPrincipalClass = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = josemalagon.es.LocalizableStringsFiles;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		1451CA4E2761340F009059C0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LW9DHQ8252;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSPrincipalClass = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = josemalagon.es.LocalizableStringsFiles;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		1451CA5D276135FE009059C0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LW9DHQ8252;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSPrincipalClass = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = josemalagon.es.CSVFiles;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		1451CA5E276135FE009059C0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LW9DHQ8252;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSPrincipalClass = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = josemalagon.es.CSVFiles;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -281,6 +474,24 @@
 			buildConfigurations = (
 				1451CA392761311C009059C0 /* Debug */,
 				1451CA3A2761311C009059C0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1451CA4C2761340F009059C0 /* Build configuration list for PBXNativeTarget "LocalizableStringsFiles" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1451CA4D2761340F009059C0 /* Debug */,
+				1451CA4E2761340F009059C0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1451CA5C276135FE009059C0 /* Build configuration list for PBXNativeTarget "CSVFiles" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1451CA5D276135FE009059C0 /* Debug */,
+				1451CA5E276135FE009059C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
